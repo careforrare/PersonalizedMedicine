@@ -13,6 +13,8 @@ title: Personalized Medicine
   For Parents <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 <h1 class="lead mt-5 font-weight-bold display-5">Learn more about AI in medical research!</h1>
+
+<h1 class="lead mt-5 font-weight-bold display-5 bg-danger text-light">This website is under construction. Please come back later!</h1>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
