@@ -4,10 +4,10 @@ title: Personalized Medicine
 
 {{< blocks/cover title="Care for rare." image_anchor="top" height="full" >}}
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
-  For Researchers <i class="fas fa-arrow-alt-circle-right ms-2"></i>
+  For Clinics <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy-example">
-  For Developers <i class="fab fa-github ms-2 "></i>
+  For Data Scientists <i class="fab fa-github ms-2 "></i>
 </a>
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
   For Parents <i class="fas fa-arrow-alt-circle-right ms-2"></i>
@@ -20,61 +20,50 @@ title: Personalized Medicine
 
 
 {{% blocks/lead color="primary" %}}
-Here we can describe what the next **steps** are.
-
-(Sadly, Goldydocs isn't a real project, but you can use this site as an example
-to create your own real websites with [Docsy](https://docsy.dev))
+For more information about the project and the vision behind it, please visit the links below.
 {{% /blocks/lead %}}
 
 
 {{% blocks/section color="dark" type="row" %}}
-{{% blocks/feature icon="fa-lightbulb" title="New chair metrics!" %}}
-The Goldydocs UI now shows chair size metrics by default.
 
-Please follow this space for updates!
+<div class="container">
+<div class="row">
+
+<div class="col-3">
+{{% blocks/feature icon="fa-lightbulb" title="Care-for-Rare Foundation" url="https://www.care-for-rare.org/" %}}
+Learn more about the Care-for-Rare Foundation.
 {{% /blocks/feature %}}
+</div>
 
-
-{{% blocks/feature icon="fab fa-github" title="Contributions welcome!" url="https://github.com/google/docsy-example" %}}
-We do a [Pull Request](https://github.com/google/docsy-example/pulls) contributions workflow on **GitHub**. New users are always welcome!
+<div class="col-3">
+{{% blocks/feature icon="fa-lightbulb" title="MI4People" url="https://de.mi4people.org/" %}}
+Learn more about MI4People.
 {{% /blocks/feature %}}
+</div>
 
-
-{{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!" url="https://twitter.com/docsydocs" %}}
-For announcement of latest features etc.
+<div class="col-3">
+{{% blocks/feature icon="fa-lightbulb" title="SCIVIAS Study" url="https://www.ccrc-hauner.de/clinical-research/scivias-study/98ce4317bfb6ff92" %}}
+Learn more about the SCIVIAS study.
 {{% /blocks/feature %}}
+</div>
 
-
-{{% /blocks/section %}}
-
-
-{{% blocks/section %}}
-This is the second section
-{.h1 .text-center}
+<div class="col-3">
+{{% blocks/feature icon="fa-lightbulb" title="FeatureCloud" url="https://featurecloud.eu/" %}}
+Learn more about FeatureCloud.
+{{% /blocks/feature %}}
+</div>
+</div>
+</div>
 {{% /blocks/section %}}
 
 
 {{% blocks/section type="row" %}}
 
-{{% blocks/feature icon="fab fa-app-store-ios" title="Download **from AppStore**" %}}
-Get the Goldydocs app!
-{{% /blocks/feature %}}
+<div class="container">
+<div class="row">
+<div class="col-3">
+<h3>Supporters</h3>
+<div>
+</div>
 
-{{% blocks/feature icon="fab fa-github" title="Contributions welcome!"
-    url="https://github.com/google/docsy-example" %}}
-We do a [Pull Request](https://github.com/google/docsy-example/pulls)
-contributions workflow on **GitHub**. New users are always welcome!
-{{% /blocks/feature %}}
-
-{{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!"
-    url="https://twitter.com/GoHugoIO" %}}
-For announcement of latest features etc.
-{{% /blocks/feature %}}
-
-{{% /blocks/section %}}
-
-
-{{% blocks/section %}}
-This is the another section
-{.h1 .text-center}
 {{% /blocks/section %}}
