@@ -4,3 +4,23 @@ Add styles or override variables from the theme here.
 
 */
 
+/*
+Colors
+*/
+$primary: #007E36;
+$secondary: rgba(0, 126, 54, .65);
+$white: #fff;
+$success: rgba(146, 208, 86, .100);
+$info: rgba(254, 217, 89, .65); 
+$danger: rgba(0, 113, 136, .100);
+$light: rgba(89, 163, 177, .65);
+$dark: rgba(145, 145, 145, .50);
+
+
+
+
+/*
+Fonts
+*/
+@import url("http://fonts.googleapis.com/css?family=Roboto Mono:400,300,700");
+$google_font_name: "Roboto Mono";

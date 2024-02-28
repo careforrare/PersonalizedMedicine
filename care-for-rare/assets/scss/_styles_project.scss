@@ -1,0 +1,8 @@
+/*
+
+Ensures that white background images are enabled with docsy.
+
+*/
+.td-overlay--dark::after {
+    background-color: transparent;
+}
