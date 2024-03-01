@@ -17,13 +17,13 @@ title: Personalized Medicine
 <div class="col-7">
 <div class="btn-toolbar mt-5" role="toolbar" aria-label="Toolbar with button groups">
   <div class="btn-group me-2" role="group" aria-label="First group">
-    <a type="button" class="btn btn-lg btn-primary me-3 mb-4" target='_top' href="https://careforrare.github.io/about/">For Clinics <i class="fas fa-arrow-alt-circle-right ms-2"></i></a>
+    <a type="button" class="btn btn-lg btn-primary me-3 mb-4" target='_top' href="https://careforrare.github.io/PersonalizedMedicine/about/">For Clinics <i class="fas fa-arrow-alt-circle-right ms-2"></i></a>
   </div>
   <div class="btn-group me-2" role="group" aria-label="Second group">
-    <a type="button" class="btn btn-lg btn-success me-3 mb-4" target='_top' href="https://careforrare.github.io/docs/">For Developers <i class="fas fa-arrow-alt-circle-right ms-2"></i></a>
+    <a type="button" class="btn btn-lg btn-success me-3 mb-4" target='_top' href="https://careforrare.github.io/PersonalizedMedicine/docs/">For Developers <i class="fas fa-arrow-alt-circle-right ms-2"></i></a>
   </div>
   <div class="btn-group me-2" role="group" aria-label="Third group">
-    <a type="button" class="btn btn-lg btn-primary me-3 mb-4" target='_top' href="https://careforrare.github.io/about/">For Parents <i class="fas fa-arrow-alt-circle-right ms-2"></i></a>
+    <a type="button" class="btn btn-lg btn-primary me-3 mb-4" target='_top' href="https://careforrare.github.io/PersonalizedMedicine/about/">For Parents <i class="fas fa-arrow-alt-circle-right ms-2"></i></a>
   </div>
 </div>
 </div>
