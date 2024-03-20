@@ -32,9 +32,9 @@ The starting point for these activities is the Care-for-Rare Center at the Dr. v
 
 # Dr. von Hauner Children's Hospital
 {.text-center}
-{{% /blocks/cover %}}
 
-{{% blocks/lead %}}
+
+
 
 The Dr. von Hauner Childrens Hospital is the Pediatric Clinic of the University Hospital of the Ludwig Maximilian University of Munich. It is a reference center for many children with severe, chronic, complex diseases. 
 Beside inpatient and outpatient treatment, there is a large, innovative, interdsciplinary and research laboratory attached to the clinic.
@@ -43,14 +43,14 @@ At Dr. von Hauner, one follows the believe that children also have a right to pa
 
 Personalized, predictive and participatory precision medicine is the primary goal of the actions taken.
 
-{{% /blocks/lead %}}
-
-{{% blocks/section %}}
 
 
+{{% /blocks/section %}}
+
+{{% blocks/section type="row" %}}
 # For Parents: SCIVIAS Study at Dr. von Hauner Children's Hospital
 {.text-center}
-{{% /blocks/cover %}}
+
 
 The SCIVIAS study at the Dr von Hauner Children's Hospital focuses on the examination of children with rare diseases in order to identify biomarkers that enable early diagnosis. 
 Various methods are used for this purpose, including imaging of the fundus oculi, OMICS analyses of blood and urine and artificial intelligence methods for data analysis. The aim is to use a simple and painless examination to detect a disease before the child is sick.
@@ -73,11 +73,13 @@ For more information, please visit our website:
 https://www.ccrc-hauner.de/klinische-forschung/scivias-studie/7cb6284c0a6f552d  
 
 
-{{% blocks/section %}}
+{{% /blocks/section %}}
+
+{{% blocks/section type="row" %}}
 
 # For Children: SCIVIAS Study at Dr. von Hauner Children's Hospital
 {.text-center}
-{{% /blocks/cover %}}
+
 
 The SCIVIAS study at Dr. von Hauner Children's Hospital examines children with rare diseases to find out how these diseases can be detected at an early stage.
 We do various tests, for example we look at the eyes, examine the blood and urine and even use computers to analyse the results.
@@ -96,6 +98,6 @@ It is important that the data we collect is secure and that we protect children'
 -	
 By taking all these precautions, we want to ensure that we get good results that can help us recognise and treat diseases in children in time.
 
-If you want to find out more, please visit our website: https://www.ccrc-hauner.de/klinische-forschung/scivias-studie/7cb6284c0a6f552d !
+If you want to find out more, please visit our [website](https://www.ccrc-hauner.de/klinische-forschung/scivias-studie/7cb6284c0a6f552d)!
 
-{{% blocks/section %}}
+{{% /blocks/section %}}
