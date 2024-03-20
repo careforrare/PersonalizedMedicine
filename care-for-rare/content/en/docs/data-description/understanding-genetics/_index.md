@@ -1,6 +1,6 @@
 ---
 title: Understanding Genetics
-weight: 1
+weight: 4
 ---
 
 {{% imgproc picture1 Fit 400x450 %}}

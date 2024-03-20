@@ -1,6 +1,6 @@
 ---
 title: Human Phenotype Ontology
-weight: 3
+weight: 5
 ---
 
 The Human Phenotype Ontology (HPO) is a standardized vocabulary and framework for describing phenotypic abnormalities observed in human diseases in terms of clinical features (symptoms) and other observable characteristics, associated with genetic disorders and other medical conditions.
