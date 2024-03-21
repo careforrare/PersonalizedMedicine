@@ -3,37 +3,11 @@ title:
 linkTitle: About
 menu: {main: {weight: 10}}
 ---
-{{% blocks/cover title="Actors of Care for Rare" image_anchor="center" height="full" color="white"  %}}
+{{% blocks/cover title="Actors of Care for Rare" image_anchor="center" color="white"  %}}
 
 Here you find more information about the Care-for-Rare Foundation.
 
 {{% /blocks/cover %}}
-
-{{% blocks/section %}}
-# What is the Care-for-Rate Foundation?
-The Care-for-Rare Foundation is helping children with rare diseases. Children with rare diseases are the orphans of medicine. They are overshadwed in many ways: Odysseys from doctor to doctor and frequent misdiagnoses define their lives. Many rare diseases are still incurable. Only through increased research efforts and international cooperation can this fate be changed. 
-
-The Care-for-Rare Foundation helps across national borders to give children with rare diseases hope for a cure - regardless of their origin or financial means
-It bases its commitment on the guiding principle of ”recognize - understand – cure“
-
-Actions taken:
-- Promoting development of new therapies
-- Financing the further training of doctors and scientists
-- Raising awareness of rare diseases
-- Helps in individual cases through clinical treatment
-
-The starting point for these activities is the Care-for-Rare Center at the Dr. von Hauner Children's Hospital of the Ludwig Maximilian University in Munich.
-{{% /blocks/section %}}
-
-{{% blocks/section %}}
-# Dr. von Hauner Children's Hospital
-The Dr. von Hauner Childrens Hospital is the Pediatric Clinic of the University Hospital of the Ludwig Maximilian University of Munich. It is a reference center for many children with severe, chronic, complex diseases. 
-Beside inpatient and outpatient treatment, there is a large, innovative, interdsciplinary and research laboratory attached to the clinic.
-
-At Dr. von Hauner, one follows the believe that children also have a right to participate in medical progress. Therefore, the clinic, its physicians and medical staff work together with the patients and their families. The aim is, to understand the basics of diseases to derive new ways of diagnosis, treatment and prevention.
-
-Personalized, predictive and participatory precision medicine is the primary goal of the actions taken.
-{{% /blocks/section %}}
 
 {{% blocks/section %}}
 # For Parents: SCIVIAS Study at Dr. von Hauner Children's Hospital

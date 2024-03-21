@@ -1,0 +1,5 @@
+$custom-colors: (
+    "lightgreen": #92D056,
+);
+
+$theme-colors: map-merge($theme-colors, $custom-colors);

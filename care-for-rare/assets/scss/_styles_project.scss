@@ -3,6 +3,13 @@
 Ensures that white background images are enabled with docsy.
 
 */
+
 .td-overlay--dark::after {
     background-color: transparent;
+}
+
+.td-navbar .nav-link {
+    text-transform: none;
+    font-weight: 500;
+    color: $white;
 }

@@ -8,14 +8,16 @@ Add styles or override variables from the theme here.
 
 /* Primary Colors */
 $green: #00883A;
+$primary: $green;
+$lightgreen: #92D056;
 $black: #232323;
 $white: #fff;
 
 /* Secondary Colors */
-$lightGray: #F5F5F5;
-$brightGray: #E6E6E7;
-$midGray: #C0C1C3;
-$darkGray: #626468;
+$lightgray: #F5F5F5;
+$brightgray: #E6E6E7;
+$midgray: #C0C1C3;
+$darkgray: #626468;
 
 /* Accent Colors */
 $red: #D71919;
@@ -25,5 +27,5 @@ $cyan: #009FE3;
 $blue: #0F1987;
 
 /* Fonts */
-$google_font_name: "Roboto Flex";
-$google_font_family: "Roboto+Flex:opsz,wght@8..144,100..1000";
+$google_font_name: "Roboto";
+$google_font_family: "Roboto:300,300i,400,400i,500,500i";
