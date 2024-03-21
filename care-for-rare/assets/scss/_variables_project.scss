@@ -4,19 +4,26 @@ Add styles or override variables from the theme here.
 
 */
 
-/*
-Colors
-*/
-$primary: #007E36;
-$secondary: rgba(0, 126, 54, .65);
-$white: #fff;
-$success: rgba(146, 208, 86, .100);
-$info: rgba(254, 217, 89, .65); 
-$danger: rgba(0, 113, 136, .100);
-$light: rgba(89, 163, 177, .65);
-$dark: rgba(145, 145, 145, .50);
+/* Colors */
 
-/*
-Fonts
-*/
-$td-enable-google-fonts: false;
+/* Primary Colors */
+$green: #00883A;
+$black: #232323;
+$white: #fff;
+
+/* Secondary Colors */
+$lightGray: #F5F5F5;
+$brightGray: #E6E6E7;
+$midGray: #C0C1C3;
+$darkGray: #626468;
+
+/* Accent Colors */
+$red: #D71919;
+$orange: #F18700;
+$violet: #8C4091;
+$cyan: #009FE3;
+$blue: #0F1987;
+
+/* Fonts */
+$google_font_name: "Roboto Flex";
+$google_font_family: "Roboto+Flex:opsz,wght@8..144,100..1000";

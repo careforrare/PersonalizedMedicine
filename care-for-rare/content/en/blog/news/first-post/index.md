@@ -12,7 +12,7 @@ resources:
 ---
 
 <div class="row mt-5">
-{{% alert title="Warning" color="warning" %}}
+{{% alert title="Warning" %}}
 This website is under construction. Please come back later!
 {{% /alert %}}
 </div>

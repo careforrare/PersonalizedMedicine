@@ -3,7 +3,7 @@ title:
 linkTitle: About
 menu: {main: {weight: 10}}
 ---
-{{% blocks/cover title="Actors of Care for Rare" image_anchor="bottom" height="auto" %}}
+{{% blocks/cover title="Actors of Care for Rare" image_anchor="center" height="full" color="white"  %}}
 
 Here you find more information about the Care-for-Rare Foundation.
 
