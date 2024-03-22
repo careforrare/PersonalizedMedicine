@@ -1,0 +1,9 @@
+# Ignore environment files
+#.env
+.playground*
+.coverage
+.ruff_cache
+.pytest_cache
+
+#venv Folder
+careforrare/
