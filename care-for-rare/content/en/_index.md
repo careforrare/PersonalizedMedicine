@@ -23,7 +23,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 {{% /blocks/featureleft %}}
 {{% /blocks/section %}}
 
-{{% blocks/section %}}
+{{% blocks/section color="light" %}}
 ## What is the Care-for-Rate Foundation?
 The Care-for-Rare Foundation is helping children with rare diseases. Children with rare diseases are the orphans of medicine. They are overshadwed in many ways: Odysseys from doctor to doctor and frequent misdiagnoses define their lives. Many rare diseases are still incurable. Only through increased research efforts and international cooperation can this fate be changed. 
 
@@ -38,7 +38,7 @@ Actions taken:
 The starting point for these activities is the Care-for-Rare Center at the Dr. von Hauner Children's Hospital of the Ludwig Maximilian University in Munich.
 {{% /blocks/section %}}
 
-{{% blocks/section %}}
+{{% blocks/section color="lightgreen" %}}
 ## Dr. von Hauner Children’s Hospital
 The Dr. von Hauner Childrens Hospital is the Pediatric Clinic of the University Hospital of the Ludwig Maximilian University of Munich. It is a reference center for many children with severe, chronic, complex diseases. 
 Beside inpatient and outpatient treatment, there is a large, innovative, interdsciplinary and research laboratory attached to the clinic.
