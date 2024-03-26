@@ -4,16 +4,54 @@ Ensures that white background images are enabled with docsy.
 
 */
 
-.td-overlay--dark::after {
-    background-color: transparent;
+/* Sections */
+
+.td-box--1 {
+    color: $black;
+    background-color: $lightgray;
+}
+
+.td-box--2 {
+    color: $black;
+    background-color: $white;
+}
+
+/* Navbar */
+
+.td-navbar {
+    background: $white;
+    border-bottom: 1px solid $brightgray;
 }
 
 .td-navbar .nav-link {
     text-transform: none;
     font-weight: 500;
-    color: $white;
+    color: $black;
+
 }
+
+/* Body elements */
 
 a {
     color: $black;
+}
+
+/* Buttons */
+
+.btn-light{
+        --bs-btn-color: #232323;
+            --bs-btn-bg: #D3F3E1;
+            --bs-btn-border-color: #D3F3E1;
+          
+}
+
+/* Lists */
+
+.list-group-item {
+    background-color: transparent;
+    padding-left: 0;
+}
+
+.list-group-flush>.list-group-item:last-child {
+    border-bottom: var(--bs-list-group-border-width) solid var(--bs-list-group-border-color)
 }

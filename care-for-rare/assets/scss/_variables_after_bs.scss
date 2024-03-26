@@ -1,5 +1,9 @@
 $custom-colors: (
     "lightgreen": #92D056,
+    "lightgray": #F5F5F5,
+    "brightgray": #E6E6E7,
+    "midgray": #C0C1C3,
+    "darkgray": #626468,
 );
 
 $theme-colors: map-merge($theme-colors, $custom-colors);

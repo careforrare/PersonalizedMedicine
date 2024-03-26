@@ -9,5 +9,8 @@
 <div class="mb-0">
 {{ .Inner }}
 </div>
-{{ with .Get "url" }}<p><a href="{{ . }}">{{ with $.Get "url_text" }}{{ . }}{{ else }}{{ T "ui_read_more" }}{{ end }}</a></p>{{ end }}
-</div>
+{{ with .Get "url" }}
+<button type="button" class="btn btn-light" onclick="window.location.href='{{ . }}'">
+    {{ with $.Get "url_text" }}{{ . }}{{ else }}{{ "Read more" }}{{ end }}
+</button>
+{{ end }}</div>

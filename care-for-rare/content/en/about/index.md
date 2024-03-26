@@ -3,13 +3,12 @@ title:
 linkTitle: About
 menu: {main: {weight: 10}}
 ---
-{{% blocks/cover title="Actors of Care for Rare" image_anchor="center" color="white"  %}}
-
+{{% blocks/section type="row" color="container" %}}
+# Actors of Care for Rare
 Here you find more information about the Care-for-Rare Foundation.
+{{% /blocks/section %}}
 
-{{% /blocks/cover %}}
-
-{{% blocks/section %}}
+{{% blocks/section type="row" color="container" %}}
 # For Parents: SCIVIAS Study at Dr. von Hauner Children's Hospital
 The SCIVIAS study at the Dr von Hauner Children's Hospital focuses on the examination of children with rare diseases in order to identify biomarkers that enable early diagnosis. 
 Various methods are used for this purpose, including imaging of the fundus oculi, OMICS analyses of blood and urine and artificial intelligence methods for data analysis. The aim is to use a simple and painless examination to detect a disease before the child is sick.
@@ -31,7 +30,7 @@ For more information, please visit our website:
 https://www.ccrc-hauner.de/klinische-forschung/scivias-studie/7cb6284c0a6f552d  
 {{% /blocks/section %}}
 
-{{% blocks/section%}}
+{{% blocks/section type="row" color="container" %}}
 # For Children: SCIVIAS Study at Dr. von Hauner Children's Hospital
 
 The SCIVIAS study at Dr. von Hauner Children's Hospital examines children with rare diseases to find out how these diseases can be detected at an early stage.
