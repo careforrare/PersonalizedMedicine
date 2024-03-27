@@ -1,7 +1,7 @@
 # PersonalizedMedicine
 
 
-to start development you require python. 
+to start development you require python and a Docker Setup. If you are using Windows 
 
 ```
 pip install virtualenv

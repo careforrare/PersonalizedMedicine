@@ -32,7 +32,7 @@ driver = GraphDatabase.driver(
     auth=(NEO4J_USERNAME, NEO4J_PASSWORD)
 )
 
-node_count_query = "MATCH ()-->() RETURN count(*)"
+node_count_query = "MATCH (n)-[r]->(m) RETURN count(m)"
 
 if __name__ == "__main__":
     

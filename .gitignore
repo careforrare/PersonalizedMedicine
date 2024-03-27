@@ -1,5 +1,5 @@
 # Ignore environment files
-#.env
+.env
 .playground*
 .coverage
 .ruff_cache
@@ -7,3 +7,4 @@
 
 #venv Folder
 careforrare/
+data/

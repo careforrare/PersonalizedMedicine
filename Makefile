@@ -1,7 +1,12 @@
+
+### PLEASE ADJUST THIS TO MATCH YOUR DEFINED APP NAME
+DOCKER_IMAGE_NAME=my_neo4j_counting_app
+
+
+### All these Values should be correctly preconfigured
+REGISTRY=featurecloud.ai
 DOCKER_IMAGE_VERSION=latest
-DOCKER_IMAGE_NAME=care-for-rare-submission
 DOCKER_IMAGE_TAGNAME=$(DOCKER_IMAGE_NAME):$(DOCKER_IMAGE_VERSION)
-REGISTRY=feature-cloud-registry-name
 
 default: build ## default = build
 
