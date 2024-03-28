@@ -16,6 +16,11 @@ Ensures that white background images are enabled with docsy.
     background-color: $white;
 }
 
+.td-box--3 {
+    color: $black;
+    background-color: $lightgray;
+}
+
 /* Navbar */
 
 .td-navbar {
@@ -27,22 +32,63 @@ Ensures that white background images are enabled with docsy.
     text-transform: none;
     font-weight: 500;
     color: $black;
-
 }
 
+.navbar-nav .show>.nav-link,
+.navbar-nav .nav-link.active {
+    color: $primary;
+}
+
+.td-navbar .navbar-brand svg {
+    display: inline-block;
+    margin: 0px;
+    height: 40px;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
+
+/* Sidebar */
+
+.td-sidebar {
+    background-color: $white;
+}
+
+.td-sidebar-nav .td-sidebar-link__page {
+    font-weight: 400;
+}
+
+
+.td-sidebar-nav__section-title a {
+    color: #495057;
+    font-weight: 400;
+}
+
+
 /* Body elements */
+
+.lead {
+    font-weight: 400;
+}
 
 a {
     color: $black;
 }
 
+.form-control {
+    box-shadow: none;
+}
+
+.td-page-meta__lastmod {
+    display: none !important;
+}
+
 /* Buttons */
 
-.btn-light{
-        --bs-btn-color: #232323;
-            --bs-btn-bg: #D3F3E1;
-            --bs-btn-border-color: #D3F3E1;
-          
+.btn-light {
+    --bs-btn-color: #232323;
+    --bs-btn-bg: #D3F3E1;
+    --bs-btn-border-color: #D3F3E1;
+
 }
 
 /* Lists */
@@ -54,4 +100,20 @@ a {
 
 .list-group-flush>.list-group-item:last-child {
     border-bottom: var(--bs-list-group-border-width) solid var(--bs-list-group-border-color)
+}
+
+/* Footer */
+
+.td-footer {
+    min-height: auto;
+    color: $black;
+    background-color: $white;
+    padding-bottom: 3rem;
+}
+
+.td-box--dark p>a,
+.td-footer p>a,
+.td-box--dark span>a,
+.td-footer span>a {
+    color: $primary;
 }
