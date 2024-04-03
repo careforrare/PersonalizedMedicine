@@ -3,7 +3,7 @@ title: Understanding Genetics
 weight: 4
 ---
 
-{{% imgproc picture1 Fit 400x450 %}}
+{{% imgproc dna-rna-protein Fit 400x450 %}}
 Image Source: http://personal.cityu.edu.hk/liangdai/post/central-dogma-translation-transcription/
 {{% /imgproc %}}
 

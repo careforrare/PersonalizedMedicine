@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 <p class="card-text">
 This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
 </p>
-<a href="/docs/for-clinics" class="btn btn-light">Read more</a>
+<a href="/PersonalizedMedicine/docs/for-clinics" class="btn btn-light">Read more</a>
 </div>
 </div>
 </div>
@@ -39,7 +39,7 @@ This is a longer card with supporting text below as a natural lead-in to additio
 </div>
 <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
 </p>
-<a href="/docs/for-developers" class="btn btn-light">Read more</a>
+<a href="/PersonalizedMedicine/docs/for-developers" class="btn btn-light">Read more</a>
 </div>
 </div>
 </div>
@@ -53,7 +53,7 @@ This is a longer card with supporting text below as a natural lead-in to additio
 <p class="card-text">
 This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
 </p>
-<a href="/docs/for-parents" class="btn btn-light">Read more</a>
+<a href="/PersonalizedMedicine/docs/for-parents" class="btn btn-light">Read more</a>
 </div>
 </div>
 </div>
@@ -98,13 +98,13 @@ of “recognize – understand – cure”.
 <div class="container text-center">
 <div class="row gx-5 align-items-center justify-content-evenly">
 <div class="col">
-<img src="/logo-careforrare.jpg" class="img-fluid" alt="Logo Care-for-Rare Foundation">
+<img src="/PersonalizedMedicine/logo-careforrare.jpg" class="img-fluid" alt="Logo Care-for-Rare Foundation">
 </div>
 <div class="col">
-<img src="/logo-lmu-klinikum.jpg" class="img-fluid" alt="Logo LMU Klinikum">
+<img src="/PersonalizedMedicine/logo-lmu-klinikum.jpg" class="img-fluid" alt="Logo LMU Klinikum">
 </div>
 <div class="col">
-<img src="/logo-hauner-hospital.jpg" class="img-fluid" alt="Logo Dr. von Hauner Childern’s Hopsital">
+<img src="/PersonalizedMedicine/logo-hauner-hospital.jpg" class="img-fluid" alt="Logo Dr. von Hauner Childern’s Hopsital">
 </div>
 </div>
 </div>
@@ -115,7 +115,7 @@ of “recognize – understand – cure”.
 <div class="container text-left pt-3">
 <div class="row p-0">
 <div class="col-2">
-<img src="/logo-hauner-hospital-caption.png" class="img-fluid rounded" alt="Logo Dr. von Hauner Children’s Hospital">
+<img src="/PersonalizedMedicine/logo-hauner-hospital-caption.png" class="img-fluid rounded" alt="Logo Dr. von Hauner Children’s Hospital">
 </div>
 <div class="col">
 <p>

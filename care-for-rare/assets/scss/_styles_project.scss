@@ -57,12 +57,15 @@ Ensures that white background images are enabled with docsy.
     font-weight: 400;
 }
 
+.td-sidebar-nav a:hover {
+    color: $primary;
+    text-decoration: none;
+}
 
 .td-sidebar-nav__section-title a {
     color: #495057;
     font-weight: 400;
 }
-
 
 /* Body elements */
 
@@ -72,6 +75,10 @@ Ensures that white background images are enabled with docsy.
 
 a {
     color: $black;
+}
+
+a:hover {
+    color: $primary;
 }
 
 .form-control {
