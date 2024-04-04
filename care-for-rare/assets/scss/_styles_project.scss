@@ -122,5 +122,18 @@ a:hover {
 .td-footer p>a,
 .td-box--dark span>a,
 .td-footer span>a {
+    color: $black;
+    font-weight: 600;
+}
+
+.td-box--dark p>a:hover,
+.td-footer p>a:hover,
+.td-box--dark span>a:hover,
+.td-footer span>a:hover {
     color: $primary;
+    text-decoration: underline;
+}
+
+.text-muted {
+    display: none;
 }
