@@ -4,6 +4,7 @@
 .coverage
 .ruff_cache
 .pytest_cache
+config.yml
 
 #venv Folder
 careforrare/
