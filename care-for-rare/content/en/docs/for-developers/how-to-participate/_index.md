@@ -16,26 +16,36 @@ description: Advanced Medical Intelligence for Guiding Orphan Medicine
 - Additionally, we provide you with a well-crafted unlabeled synthetic data set that closely resembles the structure of the real data.​
 
 ## Challenge
+<div class="row">
+<div class="col-md-8">
 
 - We invite you to develop machine learning (ML) algorithms that can use knowledge graph data and accomplish these points:​
-  
-  **A.** Accurately predict if a child is healthy or is diagnosed with an illness.​
 
-  **B.** Accurately predict patients’ disease category based on the first letter of ICD-10 code system.​
-  
-  **C.** Correctly Cluster patients based on the features from the omics and clinical data.​
-  
-  **D.** Offer the capability to be executed federatively using the feature cloud functionality.​
-  
-  **E.** Outline how the approach can be implemented and scaled to improve patients’ lives.​
+**A.** Accurately predict if a child is healthy or is diagnosed with an illness.​
+
+**B.** Accurately predict patients’ disease category based on the first letter of ICD-10 code system.​
+
+**C.** Correctly Cluster patients based on the features from the omics and clinical data.​
+
+**D.** Offer the capability to be executed federatively using the feature cloud functionality.​
+
+**E.** Outline how the approach can be implemented and scaled to improve patients’ lives.​
 
 - You are free to use both supervised and unsupervised methods. ​
 
-- You are encouraged to implement creative methods to counteract data scarcity such as transfer learning and active learning.​
-
-{{% imgproc challenge-path Fit "250x400" %}}
-Challenge
-{{% /imgproc %}}
+- You are encouraged to implement creative methods to counteract data scarcity such as transfer learning and active learning.
+</div>
+<div class="col">
+<figure class="card rounded p-2 td-post-card mb-0 mt-0" style="max-width: 190px">
+<img class="card-img-top" src="/PersonalizedMedicine/docs/for-developers/how-to-participate/challenge-path.png" width="180" height="400">
+<figcaption class="card-body px-0 pt-2 pb-0">
+<p class="card-text">
+</p><p>Challenge</p>
+<p></p>
+</figcaption>
+</figure>
+</div>
+</div>
 
 ### Technical Architecture
 

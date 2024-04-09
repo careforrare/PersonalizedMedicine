@@ -63,7 +63,7 @@ This is a longer card with supporting text below as a natural lead-in to additio
 {{% blocks/section type="container" %}}
 <div class="container text-left">
 <div class="row p-0">
-<div class="col-8">
+<div class="col-md-8">
 <h2>What is the&nbsp;<div class="d-inline-flex -bg-primary p-1 rounded">
 <h2 class="-text-white fw-bold m-0">Care for Rare</h2>
 </div>&nbsp;foundation?
@@ -77,6 +77,7 @@ efforts and international cooperation can this fate be changed. </p>
 cure – regardless of their origin or financial means. It bases its commitment on the guiding principle
 of “recognize – understand – cure”.
 </p>
+<div>
 <h3>Actions taken:</h3>
 <ul class="list-group list-group-flush pb-3">
 <li class="list-group-item"><i class="fa-regular fa-circle-check pe-2" style="color: #00883A"></i>Promoting development of new therapies</li>
@@ -85,12 +86,19 @@ of “recognize – understand – cure”.
 <li class="list-group-item"><i class="fa-regular fa-circle-check pe-2"  style="color: #00883A"></i>Helps in individual cases through clinical treatment</li>
 </ul>
 <p>The starting point for these activities is the Care-for-Rare Center at the Dr. von Hauner Children's Hospital of the Ludwig Maximilian University in Munich.</p>
-        </div>
-        <div class="col-4">
-            <img src="https://images.unsplash.com/photo-1584515933487-779824d29309?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                class="img-fluid rounded" alt="...">
-        </div>
-    </div>
+</div>
+<div class="pt-4">
+<h3>AMIGO</h3>
+<p class="fs-5"><strong>A</strong>dvanced <strong>M</strong>edical <strong>I</strong>ntelligence for <strong>G</strong>uiding <strong>O</strong>rphan Medicine</p>
+<p>Join us in revolutionizing pediatric healthcare at the forefront of innovation. The Dr. von Hauner Children’s Hospital in Munich is pioneering an AI platform dedicated to enhancing the diagnosis of rare diseases in children. Leverage our knowledge graphs and federated learning to make a difference. Ready to revolutionize healthcare?</p>
+<a href="/PersonalizedMedicine/docs/for-developers/how-to-participate/" class="btn btn-light">Join AMIGO <i class="fa-solid fa-arrow-right"></i></a>
+</div>
+</div>
+<div class="col-md-4">
+<img src="https://images.unsplash.com/photo-1584515933487-779824d29309?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+class="img-fluid rounded" alt="Holding hands">
+</div>
+</div>
 </div>
 {{% /blocks/section %}}
 
