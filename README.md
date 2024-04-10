@@ -18,12 +18,7 @@ source ./careforrare/bin/activate
 pip install -r requirements.txt
 
 # Develop your application with local environment you have to set local variables
-
-# Windows
-set NEO4J_URI=neo4j://185.112.181.108:7687
-set NEO4J_USERNAME=neo4j
-set NEO4J_PASSWORD=TUMAIMAKEATHON2024
-
+# Please get in touch with the Care-For-Rare Team
 
 
 # Build and push your container by facilitating makefile

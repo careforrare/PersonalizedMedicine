@@ -1,0 +1,4 @@
+neo4j_credentials:
+  NEO4J_URI: bolt://83.229.84.12:7474
+  NEO4J_USERNAME: tumaiReadonly
+  NEO4J_PASSWORD: MAKEATHON2024
