@@ -1,8 +1,8 @@
 ---
 title: Clinical Laboratory Data
 weight: 6
-description: The clinical laboratory data includes results from the blood and urine tests.
 ---
+The clinical laboratory data includes results from the blood and urine tests.
 
 ## Blood Test
 
@@ -13,5 +13,15 @@ Another very common test is the basic metabolic panel, which is a group of tests
 The lipoprotein panel also known as the lipid profile, measures the levels of LDL and HDL cholesterol and triglycerides, indicating the risk of cardiovascular diseases and other conditions.
 
 {{% imgproc blood-test Fit 1000x500 %}}
-Image sources: https://images.app.goo.gl/PMBVKkdZVdLHGoga6, https://hpo.jax.org/app/browse/term/HP:0001903
+Image source: https://images.app.goo.gl/PMBVKkdZVdLHGoga6
 {{% /imgproc %}}
+
+## Urine Test
+
+A routine urine test, also known as a urinalysis, examines the physical, chemical, and microscopic properties of urine. It includes visual, chemical and microscopic examinations.
+
+The appearance of the urine, its clarity and color can indicate the presence of blood, proteins and certain drugs.
+
+The chemical test includes placing a stick with chemical strips in the urine. The strips would change color indicating the presence or levels of different components such as glucose, ketones, proteins, bilirubin, blood, nitrites, leukocytes, and erythrocytes as well as the pH and concentration of the urine.
+
+The microscopic examination involves viewing drops of concentrated urine under a microscope to detect the presence of crystals, casts (tube-shaped proteins), pathogens, red blood cells, white blood cells and epithelial cells. These can provide additional diagnostic information.

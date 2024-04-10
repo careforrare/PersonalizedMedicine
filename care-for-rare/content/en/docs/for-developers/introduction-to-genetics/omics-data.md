@@ -1,6 +1,6 @@
 ---
 title: Omics Data and Personalized Medicine
-weight: 5
+weight: 2
 ---
 
 Omics data refers to large-scale data generated from high-throughput techniques that study various biological components on a comprehensive scale.

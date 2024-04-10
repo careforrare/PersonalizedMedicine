@@ -77,6 +77,11 @@ a {
     color: $black;
 }
 
+.link-underline-primary {
+    color: $primary;
+    text-decoration: underline;
+}
+
 a:hover {
     color: $primary;
 }

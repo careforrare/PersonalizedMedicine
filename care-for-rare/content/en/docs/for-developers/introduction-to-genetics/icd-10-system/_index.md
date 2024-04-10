@@ -1,6 +1,6 @@
 ---
 title: The ICD-10 System
-weight: 5
+weight: 4
 ---
 
 The International Classification of Diseases (ICD) is a standardized system used worldwide for classifying diseases, health conditions, and related factors. ICD-10, which is the latest revision, provides a comprehensive framework for organizing and categorizing diseases and health conditions based on their etiology, anatomical location, severity, and other relevant factors.

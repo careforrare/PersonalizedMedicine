@@ -1,7 +1,9 @@
 ---
-title: Understanding Genetics
-weight: 4
+title: Useful Background Knowledge
+weight: 1
 ---
+
+Here you can a brief introduction into various topics involved in the challenge.  
 
 {{% imgproc dna-rna-protein Fit 400x450 %}}
 Image Source: http://personal.cityu.edu.hk/liangdai/post/central-dogma-translation-transcription/
