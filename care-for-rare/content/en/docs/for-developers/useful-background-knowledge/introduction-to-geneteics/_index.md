@@ -1,5 +1,5 @@
 ---
-title: Useful Background Knowledge
+title: Intoduction to Genetics
 weight: 1
 ---
 
