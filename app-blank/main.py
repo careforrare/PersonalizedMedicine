@@ -34,7 +34,7 @@ from pandas import DataFrame
 
 
 # Define function to load neo4j credentials from config.yml
-def load_neo4j_credentials(file_path="config.yml"):
+def load_neo4j_credentials(file_path="/mnt/input/config.yml"):
     try:
         with open(file_path, "r") as config_file:
             config = yaml.safe_load(config_file)
