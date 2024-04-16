@@ -6,10 +6,11 @@ attrs==23.2.0
 certifi==2024.2.2
 cffi==1.16.0
 charset-normalizer==3.3.2
-click==8.1.7
 colorama==0.4.6
 neo4j==5.17.0
 numpy==1.26.4
 pandas==2.2.0
 requests==2.31.0
 python-dotenv==1.0.1
+pyyaml==6.0.1
+featurecloud==0.0.29

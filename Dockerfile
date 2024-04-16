@@ -1,15 +1,20 @@
 FROM python:3.10-slim
 
-# Set the working directory in the container
-WORKDIR /app
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends build-essential gcc supervisor nginx && \
+    apt-get clean && \
+    rm -rf /var/lib/apt/lists/*
 
-# Install any needed packages specified in requirements.txt
-COPY requirements.txt /app
-RUN pip install --upgrade pip
-RUN pip install --no-cache-dir -r requirements.txt
+COPY ./app/server_config/supervisord.conf /supervisord.conf
+COPY ./app/server_config/nginx /etc/nginx/sites-available/default
+COPY ./app/server_config/docker-entrypoint.sh /entrypoint.sh
+COPY requirements.txt /app/requirements.txt
+
+RUN pip3 install --user --upgrade pip && \
+    pip3 install --user -r ./app/requirements.txt && \
+    pip3 cache purge
 
 COPY ./app /app
-# Make port 8000 available to the world outside this container
 
-# Run the application
-CMD ["python","main.py"]
+EXPOSE 9000 9001
+ENTRYPOINT ["sh", "/entrypoint.sh"]
