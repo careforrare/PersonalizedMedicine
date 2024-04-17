@@ -115,6 +115,17 @@ class="img-fluid rounded" alt="Holding hands">
 <img src="/PersonalizedMedicine/logo-hauner-hospital.jpg" class="img-fluid" alt="Logo Dr. von Hauner Childern’s Hopsital">
 </div>
 </div>
+<div class="row gx-5 mt-5 align-items-center justify-content-evenly">
+<div class="col">
+<img src="/PersonalizedMedicine/logo-featurecloud.png" class="img-fluid" alt="Logo FeatureCloud">
+</div>
+<div class="col">
+<img src="/PersonalizedMedicine/logo-ml4people.png" class="img-fluid px-5" alt="Logo Ml4people">
+</div>
+<div class="col">
+<img src="/PersonalizedMedicine/logo-neo4j.jpg" class="img-fluid px-5" alt="Logo neo4j">
+</div>
+</div>
 </div>
 {{% /blocks/section %}}
 
