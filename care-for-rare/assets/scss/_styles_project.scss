@@ -6,6 +6,11 @@ Ensures that white background images are enabled with docsy.
 
 /* Sections */
 
+.td-box--0 {
+    color: $black;
+    background-color: $white;
+}
+
 .td-box--1 {
     color: $black;
     background-color: $lightgray;
@@ -17,6 +22,11 @@ Ensures that white background images are enabled with docsy.
 }
 
 .td-box--3 {
+    color: $black;
+    background-color: $lightgray;
+}
+
+.td-box--4 {
     color: $black;
     background-color: $lightgray;
 }

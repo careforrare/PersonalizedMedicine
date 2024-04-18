@@ -81,7 +81,7 @@ description = "A Docsy example site"
 section = ["HTML", "print", "RSS"]
 
 [params]
-copyright = " "
+copyright = "LMU München"
 privacy_policy = "https://policies.google.com/privacy"
 
 # First one is picked as the Twitter card image if not set on page.
