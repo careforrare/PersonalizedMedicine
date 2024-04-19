@@ -8,7 +8,7 @@ weight: 1
 <img width="320" alt="Video: Once Upon A Time...Life: The Cell" src="./screenshot-video.png">
 </a>
 <p><small>
-Source: Abandoned Tube, YouTube. Link: https://youtu.be/V1hAgh77v9U?si=2GTLDG30aJmjM4t8&t=374
+Source: Abandoned Tube, https://youtu.be/V1hAgh77v9U?si=2GTLDG30aJmjM4t8&t=374
 </small></p>
 
 Here you can a brief introduction into various topics involved in the challenge.  
