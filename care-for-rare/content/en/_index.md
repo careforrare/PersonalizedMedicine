@@ -54,7 +54,7 @@ This is a longer card with supporting text below as a natural lead-in to additio
 <p class="card-text">
 This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
 </p>
-<a href="/PersonalizedMedicine/docs/for-parents" class="btn btn-light">Read more</a>
+<a href="/PersonalizedMedicine/docs/for-families" class="btn btn-light">Read more</a>
 </div>
 </div>
 </div>
