@@ -35,13 +35,13 @@ The whole point of this is to find out if they can spot these rare diseases earl
 
 ## AMIGO
 
-Our project “AMIGO: Advanced Medical Intelligence for Guiding Orphan Medicine” is run by Dr. von Hauner Children's Hospital in Munich. They're trying to help kids who have really rare diseases, but don't get a lot of attention in medicine.
+Our project “AMIGO: Advanced Medical Intelligence for Guiding Orphan Medicine” is run by Dr. von Hauner Children’s Hospital in Munich. They’re trying to help kids who have really rare diseases, but don’t get a lot of attention in medicine.
 
-When a kid goes to the hospital, they ask a lot of questions and do some tests, like taking blood and pee samples, and looking at their eyes. Then, some smart people called bioinformaticians look at all this information. But even with all these tests, they only figure out what's wrong about 30% of the time, especially for really rare diseases that mostly come from genes. And for over 95% of these rare diseases, there isn't even a medicine that's been tested and approved yet! This makes things really hard for the doctors and the kids and their families.
+When a kid goes to the hospital, they ask a lot of questions and do some tests, like taking blood and pee samples, and looking at their eyes. Then, some smart people called bioinformaticians look at all this information. But even with all these tests, they only figure out what’s wrong about 30% of the time, especially for really rare diseases that mostly come from genes. And for over 95% of these rare diseases, there isn’t even a medicine that’s been tested and approved yet! This makes things really hard for the doctors and the kids and their families.
 
-So, the AMIGO project wants to do something to help. They want to learn more from all this information. And don't worry, they're keeping it all safe and private while they do this. They're using a special way to look at the data without sharing it everywhere.
+So, the AMIGO project wants to do something to help. They want to learn more from all this information. And don’t worry, they’re keeping it all safe and private while they do this. They’re using a special way to look at the data without sharing it everywhere.
 
-By putting all this information into something called a "Clinical Knowledge Graph," scientists and doctors from all over the world can use it to learn and help figure out diseases faster and better. This could help make treatments better and maybe even find new medicines!
+By putting all this information into something called a “Clinical Knowledge Graph”, scientists and doctors from all over the world can use it to learn and help figure out diseases faster and better. This could help make treatments better and maybe even find new medicines!
 
-And guess what? It's not just about helping kids. The things they learn could also help grown-ups with problems like heart or brain issues. So, it's like they're using information to help everyone stay healthy. 
+And guess what? It’s not just about helping kids. The things they learn could also help grown-ups with problems like heart or brain issues. So, it’s like they’re using information to help everyone stay healthy. 
 

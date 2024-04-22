@@ -7,8 +7,8 @@ description: Advanced Medical Intelligence for Guiding Orphan Medicine
 {{% imgproc amigo-hero-image Fit "800x300" %}}
 {{% /imgproc %}}
 
-<div class="row">
-<div class="col-md-8">
+<div class="d-lg-flex gap-3">
+<div class="flex-lg-grow-1">
 
 ## Challenge
 
@@ -36,9 +36,9 @@ We invite you to develop machine learning (ML) algorithms that can use knowledge
 Technical Architecture
 {{% /imgproc %}}
 </div>
-<div class="col">
-<figure class="card rounded p-2 td-post-card mb-0 mt-0" style="max-width: 190px">
-<img class="card-img-top" src="./challenge-path.png" width="180" height="400">
+<div>
+<figure class="card rounded p-2 td-post-card mb-0 mt-0" style="width: 190px">
+<img class="card-img-top" src="./challenge-path.png">
 </figure>
 </div>
 </div>
