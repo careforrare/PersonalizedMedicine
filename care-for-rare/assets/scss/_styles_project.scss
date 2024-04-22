@@ -111,10 +111,15 @@ a:hover {
 /* Buttons */
 
 .btn-light {
-    --bs-btn-color: #232323;
+    --bs-btn-color: $black;
     --bs-btn-bg: #D3F3E1;
     --bs-btn-border-color: #D3F3E1;
 
+}
+
+.td-box--2 p>a,
+.td-box--2 span>a {
+    color: $black;
 }
 
 /* Lists */

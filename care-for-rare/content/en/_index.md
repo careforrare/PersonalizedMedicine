@@ -10,7 +10,7 @@ title: Care for Rare
 </div>
 
 <p class="lead">
-Welcome to Project “AMIGO: Advanced Medical Intelligence for Guiding Orphan Medicine”.
+Welcome to Project “AMIGO: <strong>A</strong>dvanced <strong>M</strong>edical <strong>I</strong>ntelligence for <strong>G</strong>uiding <strong>O</strong>rphan Medicine”.
 </p>
 <p class="mb-4">
 Our project, launched and managed by Dr. von Hauner Children’s Hospital in Munich, Germany, aims to give hope to children with rare diseases, known as the orphans of medicine. By integrating Machine Learning (ML) and following a decentralized approach, it will be possible to analyze and link children’s clinical and genetic data with the highest level of data security. The knowledge gained will be used to train an AI and thus help doctors around the world to diagnose and treat patients in an individual and personalized way.
@@ -25,9 +25,11 @@ Our project, launched and managed by Dr. von Hauner Children’s Hospital in Mun
 <div><i class="fa-regular fa-hospital fa-2xl"></i></div>
 </div>
 <p class="card-text">
-This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
+We bring cutting-edge technology to clinics, enabling creation of collaborative AI applications without any data sharing.
 </p>
-<a href="/PersonalizedMedicine/docs/for-clinics" class="btn btn-light">Read more</a>
+</div>
+<div class="card-footer bg-white border-0 mb-2">
+<a href="./docs/for-clinics" class="btn btn-light">Read more</a>
 </div>
 </div>
 </div>
@@ -38,9 +40,11 @@ This is a longer card with supporting text below as a natural lead-in to additio
 <div class="flex-grow-1"><h3 class="card-title">Developers</h3></div>
 <div><i class="fa-regular fa-code fa-2xl"></i></div>
 </div>
-<p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
+<p class="card-text flex-grow-1">Using knowledge graphs we provide you with curated and preprocessed datasets so you can focus on building machine learning solutions.
 </p>
-<a href="/PersonalizedMedicine/docs/for-developers" class="btn btn-light">Read more</a>
+</div>
+<div class="card-footer bg-white border-0 mb-2">
+<a href="./docs/for-developers/" class="btn btn-light">Read more</a>
 </div>
 </div>
 </div>
@@ -52,9 +56,11 @@ This is a longer card with supporting text below as a natural lead-in to additio
 <div><i class="fa-regular fa-people-roof fa-2xl"></i></div>
 </div>
 <p class="card-text">
-This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
+Helping our patients and their families is the heart of our initiative. That is why our partners at Dr. von Hauner Children’s Hospital are working on SCIVIAS study and early diagnosis of rare diseases.
 </p>
-<a href="/PersonalizedMedicine/docs/for-families" class="btn btn-light">Read more</a>
+</div>
+<div class="card-footer bg-white border-0 mb-2">
+<a href="./docs/for-families" class="btn btn-light">Read more</a>
 </div>
 </div>
 </div>
@@ -98,26 +104,29 @@ Use our knowledge graphs and our project descriptions to support this progress!
 </div>
 
 <div class="container text-center">
-<div class="row gx-5 mt-5 align-items-center justify-content-evenly">
+<div class="row gx-md-3 gx-lg-5 mt-5 align-items-center justify-content-evenly">
 <div class="col">
-<img src="/PersonalizedMedicine/logo-careforrare.jpg" class="img-fluid" alt="Logo Care-for-Rare Foundation">
+<img src="./logo-careforrare.jpg" class="img-fluid px-lg-4" alt="Logo Care-for-Rare Foundation">
 </div>
 <div class="col">
-<img src="/PersonalizedMedicine/logo-lmu-klinikum.jpg" class="img-fluid" alt="Logo LMU Klinikum">
+<img src="./logo-lmu-klinikum.jpg" class="img-fluid px-lg-2" alt="Logo LMU Klinikum">
 </div>
 <div class="col">
-<img src="/PersonalizedMedicine/logo-hauner-hospital.jpg" class="img-fluid" alt="Logo Dr. von Hauner Childern’s Hopsital">
+<img src="./logo-hauner-hospital.jpg" class="img-fluid px-lg-4" alt="Logo Dr. von Hauner Childern’s Hopsital">
 </div>
 </div>
-<div class="row gx-5 mt-5 align-items-center justify-content-evenly">
+<div class="row gx-md-3 gx-lg-5 mt-5 p-0 align-items-center justify-content-evenly">
 <div class="col">
-<img src="/PersonalizedMedicine/logo-featurecloud.png" class="img-fluid" alt="Logo FeatureCloud">
-</div>
-<div class="col">
-<img src="/PersonalizedMedicine/logo-ml4people.png" class="img-fluid px-5" alt="Logo Ml4people">
+<img src="./logo-capgemini.svg" class="img-fluid" alt="Logo Capgemini">
 </div>
 <div class="col">
-<img src="/PersonalizedMedicine/logo-neo4j.jpg" class="img-fluid px-5" alt="Logo neo4j">
+<img src="./logo-featurecloud.png" class="img-fluid" alt="Logo FeatureCloud">
+</div>
+<div class="col">
+<img src="./logo-ml4people.png" class="img-fluid px-lg-5" alt="Logo Ml4people">
+</div>
+<div class="col">
+<img src="./logo-neo4j.jpg" class="img-fluid px-lg-5" alt="Logo neo4j">
 </div>
 </div>
 </div>
