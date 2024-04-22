@@ -82,7 +82,7 @@ section = ["HTML", "print", "RSS"]
 
 [params]
 copyright = "LMU München"
-privacy_policy = "../../docs/privacy-policy"
+privacy_policy = "https://careforrare.github.io/PersonalizedMedicine/docs/privacy-policy/"
 
 # First one is picked as the Twitter card image if not set on page.
 # images = ["images/project-illustration.png"]
