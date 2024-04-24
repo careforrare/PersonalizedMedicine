@@ -14,3 +14,5 @@ Image source: https://images.app.goo.gl/pgSzs4eVc8zvm5yW9
 {{% imgproc icd10-classification Fit 400x450 %}}
 Image source: https://images.app.goo.gl/pgSzs4eVc8zvm5yW9
 {{% /imgproc %}}
+
+For more information, please visit: https://www.who.int/classifications/classification-of-diseases.

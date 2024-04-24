@@ -12,9 +12,9 @@ This setup ensure that data resides on the clinic system and infrastructure at a
 {{% imgproc infrastructure-setup Fit "1000x500" %}}
 {{% /imgproc %}}
 
-Developers obtain mock data from Neo4j in their local environment. The mock data mimics the <a href="../../for-developers/graph-data-model/" class="link-underline-primary">data model</a> on the clinic side.
+Developers obtain mock data from Neo4j in their local environment. The mock data mimics the <a href="../../developers/graph-data-model/" class="link-underline-primary">data model</a> on the clinic side.
 
-Developers in the local environment follow the <a href="https://github.com/careforrare/PersonalizedMedicine)" class="link-underline-primary">prepared template</a> to build their machine learning applications and test them with the mock data. They can then upload their machine learning applications to the feature cloud app store.
+Developers in the local environment follow the <a href="https://github.com/careforrare/PersonalizedMedicine" class="link-underline-primary">prepared template</a> to build their machine learning applications and test them with the mock data. They can then upload their machine learning applications to the feature cloud app store.
 
 The user at the clinic can select their machine learning application of interest from feature cloud app store and download them to their local environment via the pull process. They can then securely execute the machine learning application on their data in their local environment. 
 

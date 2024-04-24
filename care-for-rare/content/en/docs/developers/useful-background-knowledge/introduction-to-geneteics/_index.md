@@ -30,7 +30,7 @@ Transcription is the process by which the genetic information encoded in DNA is 
 Translation is the process by which the genetic information carried by mRNA is decoded to produce a specific sequence of amino acids, which are the building blocks of proteins. This process takes place in the ribosomes, cellular structures composed of RNA and protein. Transfer RNA (tRNA) molecules bind to specific amino acids and deliver them to the ribosome, where they are joined together to form a polypeptide chain, or protein.
 
 ### Gene
-gene is a segment of DNA that contains the instructions for building and functioning of an organism. Genes are the basic units of heredity, passed down from parents to offspring, and they play a crucial role in determining an organism's traits and characteristics.
+Gene is a segment of DNA that contains the instructions for building and functioning of an organism. Genes are the basic units of heredity, passed down from parents to offspring, and they play a crucial role in determining an organism's traits and characteristics.
 
 Genes typically consist of two main sections: coding regions and non-coding regions. 
 Coding regions, also known as exons, contain the instructions for building proteins. These regions are transcribed into messenger RNA (mRNA) which serves as a template for protein synthesis, with each set of three nucleotides (codon) coding for a specific amino acid, the building block for proteins.

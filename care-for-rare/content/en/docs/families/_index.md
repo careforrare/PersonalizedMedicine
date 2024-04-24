@@ -1,5 +1,5 @@
 ---
-title: For families
+title: Families
 weight: 3
 ---
 Dear Children, dear Parents!

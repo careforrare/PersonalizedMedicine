@@ -29,7 +29,7 @@ We bring cutting-edge technology to clinics, enabling creation of collaborative 
 </p>
 </div>
 <div class="card-footer bg-white border-0 mb-2">
-<a href="./docs/for-clinics" class="btn btn-light">Read more</a>
+<a href="./docs/clinics" class="btn btn-light">Read more</a>
 </div>
 </div>
 </div>
@@ -44,7 +44,7 @@ We bring cutting-edge technology to clinics, enabling creation of collaborative 
 </p>
 </div>
 <div class="card-footer bg-white border-0 mb-2">
-<a href="./docs/for-developers/" class="btn btn-light">Read more</a>
+<a href="./docs/developers/" class="btn btn-light">Read more</a>
 </div>
 </div>
 </div>
@@ -52,7 +52,7 @@ We bring cutting-edge technology to clinics, enabling creation of collaborative 
 <div class="card h-100">
 <div class="card-body">
 <div class="d-flex pb-2">
-<div class="flex-grow-1"><h3 class="card-title">Children and Parents</h3></div>
+<div class="flex-grow-1"><h3 class="card-title">Families</h3></div>
 <div><i class="fa-regular fa-people-roof fa-2xl"></i></div>
 </div>
 <p class="card-text">
@@ -60,7 +60,7 @@ Helping our patients and their families is the heart of our initiative. That is 
 </p>
 </div>
 <div class="card-footer bg-white border-0 mb-2">
-<a href="./docs/for-families" class="btn btn-light">Read more</a>
+<a href="./docs/families" class="btn btn-light">Read more</a>
 </div>
 </div>
 </div>
@@ -72,7 +72,7 @@ Helping our patients and their families is the heart of our initiative. That is 
 <div class="container text-left pt-3">
 <div class="row p-0">
 <div class="col-2">
-<img src="/PersonalizedMedicine/logo-hauner-hospital-caption.png" class="img-fluid rounded" alt="Logo Dr. von Hauner Children’s Hospital">
+<img src="./logo-hauner-hospital-caption.png" class="img-fluid rounded" alt="Logo Dr. von Hauner Children’s Hospital">
 </div>
 <div class="col">
 
@@ -100,33 +100,48 @@ Use our knowledge graphs and our project descriptions to support this progress!
 
 **Just because it is called *rare*, doesn’t mean it doesn’t affect us all.**
 
-<a href="/PersonalizedMedicine/docs/for-developers/how-to-participate/" class="btn btn-light">Join AMIGO <i class="fa-solid fa-arrow-right"></i></a>
+<a href="./docs/developers/amigo" class="btn btn-light">Join AMIGO <i class="fa-solid fa-arrow-right"></i></a>
 </div>
 
 <div class="container text-center">
+<h3>Joint initiative of</h3>
 <div class="row gx-md-3 gx-lg-5 mt-5 align-items-center justify-content-evenly">
 <div class="col">
+<a href="https://www.care-for-rare.org/en/home/">
 <img src="./logo-careforrare.jpg" class="img-fluid px-lg-4" alt="Logo Care-for-Rare Foundation">
+</a>
 </div>
 <div class="col">
+<a href="https://www.lmu-klinikum.de/">
 <img src="./logo-lmu-klinikum.jpg" class="img-fluid px-lg-2" alt="Logo LMU Klinikum">
+</a>
 </div>
 <div class="col">
+<a href="https://www.lmu-klinikum.de/hauner/kinder-und-kinderpoliklinik">
 <img src="./logo-hauner-hospital.jpg" class="img-fluid px-lg-4" alt="Logo Dr. von Hauner Childern’s Hopsital">
+</a>
 </div>
 </div>
 <div class="row gx-md-3 gx-lg-5 mt-5 p-0 align-items-center justify-content-evenly">
 <div class="col">
+<a href="https://www.capgemini.com/de-de/">
 <img src="./logo-capgemini.svg" class="img-fluid" alt="Logo Capgemini">
+</a>
 </div>
 <div class="col">
+<a href="https://featurecloud.eu/">
 <img src="./logo-featurecloud.png" class="img-fluid" alt="Logo FeatureCloud">
+</a>
 </div>
 <div class="col">
+<a href="https://www.mi4people.org/">
 <img src="./logo-ml4people.png" class="img-fluid px-lg-5" alt="Logo Ml4people">
+</a>
 </div>
 <div class="col">
+<a href="https://neo4j.com/">
 <img src="./logo-neo4j.jpg" class="img-fluid px-lg-5" alt="Logo neo4j">
+</a>
 </div>
 </div>
 </div>

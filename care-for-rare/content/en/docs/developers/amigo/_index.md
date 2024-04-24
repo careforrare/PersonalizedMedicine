@@ -54,6 +54,6 @@ Technical Architecture
 
 - Additionally, we provide you with a well-crafted unlabeled synthetic data set that closely resembles the structure of the real data.​
 
-Joint initiative of
+<h3>Joint initiative of</h3>
 {{% imgproc logos Fit "800x300" %}}
 {{% /imgproc %}}

@@ -121,6 +121,11 @@ a {
     color: $black;
 }
 
+.td-box--2 p>a:hover,
+.td-box--2 span>a:hover{
+    color: $black;
+}
+
 .link-underline-primary {
     color: $primary;
     text-decoration: none;

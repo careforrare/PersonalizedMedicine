@@ -10,3 +10,5 @@ Using machine learning models, CADD combines genomic features derived from surro
 Imagine you're a scientist studying genetic mutations in a particular gene associated with a rare disease. You've identified a mutation located in a critical region of the gene that codes for an essential protein. Now you want to assess its potential impact on protein function and disease risk. 
 
 After running the variant through the CADD tool, you obtain a CADD score of 25. This score indicates that the variant is predicted to be among the top 25% most deleterious variants in the human genome, suggesting a high likelihood of it causing a harmful effect or contributing to disease.
+
+For more information, please visit: https://cadd.gs.washington.edu/.
