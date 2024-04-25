@@ -4,4 +4,4 @@ weight: 3
 ---
 Dear Children, dear Parents!
 
-Here you find more information about Dr. von Hauner Children’s Hospital and what we do at Dr. von for the health of children. 
+Helping our patients and their families is the heart of our initiative. That is why our partners at Dr. von Hauner Children’s Hospital are working on SCIVIAS study and early diagnosis of rare diseases.
