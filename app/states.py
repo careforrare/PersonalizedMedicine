@@ -36,7 +36,7 @@ class ExecuteState(AppState):
         # Driver instantiation
         driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USERNAME, NEO4J_PASSWORD))
         
-        # Create a driver session
+        # Create a driver session with defined DB
         with driver.session(database=NEO4J_DB) as session:
                 
             # Example Query to Count Nodes 
