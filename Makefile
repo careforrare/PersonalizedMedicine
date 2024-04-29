@@ -14,10 +14,10 @@ build: ## build the image
 	docker build -t $(DOCKER_IMAGE_TAGNAME) .
 	docker tag $(DOCKER_IMAGE_TAGNAME) $(REGISTRY)/$(DOCKER_IMAGE_TAGNAME)
 
-push: ## push image to docker registry
+push: build ## push image to docker registry
 	docker push $(REGISTRY)/$(DOCKER_IMAGE_NAME):latest
 
-test: ## test the image
+test: build ## test the image
 	docker run --rm $(DOCKER_IMAGE_TAGNAME) /bin/echo "Success."
 
 rmi: ## remove the image
@@ -25,8 +25,8 @@ rmi: ## remove the image
 
 rebuild: rmi build ## rebuild it
 
-run: ## run the image
-	docker run $(DOCKER_IMAGE_NAME):latest
+run: build config.yml ## run the image
+	docker run --rm -d -v ./config.yml:/mnt/input/config.yml -v ./data/output:/mnt/output -p 9000:9000 $(REGISTRY)/$(DOCKER_IMAGE_NAME):$(DOCKER_IMAGE_VERSION)
 
 help: ## This help dialog
 	@IFS=$$'\n' ; \
@@ -40,3 +40,6 @@ help: ## This help dialog
 		done
 
 .PHONY: help run list build test push rmi rebuild
+
+config.yml:
+	$(error Please create a config.yml file)
