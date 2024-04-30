@@ -5,24 +5,10 @@ import logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-INPUT_DIR = '/mnt/input'
-OUTPUT_DIR = '/mnt/output'
-
-def read_config(file_path=f"{INPUT_DIR}/config.yml"):
-    try:
-        with open(file_path, "r") as config_file:
-            config = yaml.safe_load(config_file)
-        return config
-                
-    except FileNotFoundError:
-        logger.info(f"Config file '{file_path}' not found.")
-
-
-def write_output(content, file_path=f"{OUTPUT_DIR}/results.txt"):
-    
-    with open(file_path, "w") as text_file:
-        text_file.write(content)
-
+def read_config(file_path):
+    with open(file_path, "r") as config_file:
+        config = yaml.safe_load(config_file)
+    return config
 
 def convert_to_np(data):
     if isinstance(data, (pd.Series, pd.DataFrame)):
