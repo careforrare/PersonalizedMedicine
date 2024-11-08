@@ -10,7 +10,13 @@ title: Care for Rare
 </div>
 
 <p class="lead">
-Welcome to Project “AMIGO: <strong>A</strong>dvanced <strong>M</strong>edical <strong>I</strong>ntelligence for <strong>G</strong>uiding <strong>O</strong>rphan Medicine”.
+Welcome to Project “AMIGO: <strong>A</strong>dvanced <strong>M</strong>edical <strong>I</strong>ntelligence for <strong>G</strong>uiding <strong>O</strong>mics-based  Medicine”.
+</p>
+<p>
+Come to our booth at IHI!
+</p>
+<p>
+Contact: Nicola.Goetzenberger@med.uni-muenchen.de
 </p>
 <p class="mb-4">
 Our project, launched and managed by Dr. von Hauner Children’s Hospital in Munich, Germany, aims to give hope to children with rare diseases, known as the orphans of medicine. By integrating Machine Learning (ML) and following a decentralized approach, it will be possible to analyze and link children’s clinical and genetic data with the highest level of data security. The knowledge gained will be used to train an AI and thus help doctors around the world to diagnose and treat patients in an individual and personalized way.
