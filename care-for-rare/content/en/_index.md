@@ -96,8 +96,6 @@ Personalized, predictive and participatory precision medicine is the primary goa
 
 Join us in integrating the potential of Artificial Intelligence into the healthcare sector. Project AMIGO is committed to applying federated machine learning and clinical knowledge graphs, so that children with rare diseases can receive a rapid diagnosis and targeted treatment. 
 
-Use our knowledge graphs and our project descriptions to support this progress! 
-
 **Just because it is called *rare*, doesn’t mean it doesn’t affect us all.**
 
 <a href="./docs/developers/amigo" class="btn btn-light">Join AMIGO <i class="fa-solid fa-arrow-right"></i></a>
