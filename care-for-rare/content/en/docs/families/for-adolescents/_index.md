@@ -32,7 +32,7 @@ Overall, the goal of the SCIVIAS study is to find ways to identify rare diseases
 
 ## AMIGO
 
-So, there’s this project called “AMIGO: Advanced Medical Intelligence for Guiding Orphan Medicine”, run by Dr. von Hauner Children’s Hospital in Munich. They’re trying to help kids with rare diseases, who often get left out in medicine.
+So, there’s this project called “AMIGO: Advanced Medical Intelligence for Guiding Omics-based Medicine”, run by Dr. von Hauner Children’s Hospital in Munich. They’re trying to help kids with rare diseases, who often get left out in medicine.
 
 When a kid goes to the clinic, they collect a bunch of data about their medical history and symptoms. They use forms, blood and pee tests, and check-ups. They even do things like genome tests and fancy eye scans. Then, smart people called bioinformaticians analyze all this data. But here’s the thing: even with all this info, they only figure out what’s wrong about 30% of the time, especially for rare diseases that are mostly genetic. And for over 95% of rare diseases, there isn’t even a medicine that’s been tested and approved yet! This makes things really tough for the doctors, as well as the kids and their families.
 

@@ -10,27 +10,24 @@ description: Advanced Medical Intelligence for Guiding Orphan Medicine
 <div class="d-lg-flex gap-3">
 <div class="flex-lg-grow-1">
 
-## Challenge
+## Is your project suitable for IHI?
+### Public Private Partnerships are essential: 
 
-We invite you to develop machine learning (ML) algorithms that can use knowledge graph data and accomplish these points:​
+- To **provide access** to hospital-based databases
+- To **secure continuous expansion** of databases​
+- To **enable cutting-edge analysis** of data​
+- To **empower a journey of investigation** leading to precision medicine for children and adults with rare and common immunological diseases​
 
-**A.** Accurately predict if a child is healthy or is diagnosed with an illness.​
+### Contribution through collaboration
+- **Real time access** allows development in-time​
+- **Early involvement and access** secures targeted project progress​
+- **New marketing strategies** will be established
 
-**B.** Accurately predict patients’ disease category based on the first letter of ICD-10 code system.​
-
-**C.** Correctly Cluster patients based on the features from the omics and clinical data.​
-
-**D.** Offer the capability to be executed federatively using the feature cloud functionality.​
-
-### Business Outcome
-
-- Outline how the approach can be implemented and scaled to improve patients’ lives.​
-
-### Technical Architecture
-
-- You are free to use the synthetic data made available for you on Neo4j data base
-- You will be able to connect to the Feature Cloud platform and upload your models
-- You are free to use both supervised and unsupervised methods.
+## Outcomes and Impacts
+### Innovative ecosystem
+- Access to precious **multi-omics data (of > 10.000 European patients)​**
+- **Technological Independence​**
+- Joint forces of **leading European Children’s Hospitals**
 
 {{% imgproc technical-architecture Fit "350x200" %}}
 Technical Architecture
@@ -43,16 +40,19 @@ Technical Architecture
 </div>
 </div>
 
-## Background
+Ensure evolution from pediatric immunological diseases to general adult care -paving the way to personalized medicine​
 
-- The disease experts at the Dr. von Hauner Children’s Hospital in Munich are working toward establishing an AI platform to improve diagnosis of rare diseases in children. ​
-- Their goal is to implement federated learning and create a library of ML models to assist clinicians with patients' diagnosis.​
+### Expertise and Resources
+We offer:​
+- Leading European scientists in Immune Disorders​
+- Network of European Children‘s Hospitals (ECHO)​
+- Access to >10.000 Patient Data​
 
-- To protect patients’ privacy, we have already preprocessed and analyzed the data and created knowledge graphs which you can use to build your algorithm. ​
+We need:​
+- Target-to-Drug Expertise​
+- Data-to-AI Expertise​
+- Clinical Trial Support​
 
-- The knowledge graph data comprise thousands of human phenotype ontology (HPO) features, covering genomic, proteomic, blood values, electronic health records and patient questionnaires.​
-
-- Additionally, we provide you with a well-crafted unlabeled synthetic data set that closely resembles the structure of the real data.​
 
 <h3>Joint initiative of</h3>
 {{% imgproc logos Fit "800x300" %}}
