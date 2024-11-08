@@ -1,11 +1,8 @@
 ---
 title: AMIGO
 weight: 3
-description: Advanced Medical Intelligence for Guiding Orphan Medicine 
+description: Advanced Medical Intelligence for Guiding Omics-based Medicine 
 ---
-
-{{% imgproc amigo-hero-image Fit "800x300" %}}
-{{% /imgproc %}}
 
 <div class="d-lg-flex gap-3">
 <div class="flex-lg-grow-1">
@@ -29,16 +26,6 @@ description: Advanced Medical Intelligence for Guiding Orphan Medicine
 - **Technological Independence​**
 - Joint forces of **leading European Children’s Hospitals**
 
-{{% imgproc technical-architecture Fit "350x200" %}}
-Technical Architecture
-{{% /imgproc %}}
-</div>
-<div>
-<figure class="card rounded p-2 td-post-card mb-0 mt-0" style="width: 190px">
-<img class="card-img-top" src="./challenge-path.png">
-</figure>
-</div>
-</div>
 
 Ensure evolution from pediatric immunological diseases to general adult care -paving the way to personalized medicine​
 
