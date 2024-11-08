@@ -39,7 +39,7 @@ For more Information, please see <a href="../useful-background-knowledge/cadd" c
 
 ## AMIGO
 
-The “AMIGO: Advanced Medical Intelligence for Guiding Orphan Medicine“ project, which was launched and is managed by the Dr. von Hauner Children’s Hospital in Munich, aims to give hope to children with rare diseases, the so-called orphans of medicine.
+The “AMIGO: Advanced Medical Intelligence for Guiding Omics-based Medicine“ project, which was launched and is managed by the Dr. von Hauner Children’s Hospital in Munich, aims to give hope to children with rare diseases, the so-called orphans of medicine.
 
 When a child comes to the clinic, a large amount of data is collected as part of the medical history and diagnosis using standardized questionnaires, blood and urine tests and physical examinations. Genomes, proteomes, metabolomes or (as in the SCIVIAS study) OCT images are recorded. The data is processed and analyzed by our bioinformaticians. In most cases, this leads to a diagnosis. However, if the child suffers from a rare disease, we only find a cause for the disease in 30% of cases. This is usually of genetic origin. For more than 95% of rare diseases, there is no tested and approved medication. This poses huge challenges for our medical staff, as well as the children and their families. Although progress in medicine is advancing rapidly, it is impossible for clinicians to learn, analyze and incorporate the latest findings into diagnostics and treatment on a daily basis.
 
