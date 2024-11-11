@@ -11,6 +11,7 @@ description: Advanced Medical Intelligence for Guiding Omics-based Medicine
   <h2 class="me-3">IHI Call 9</h2>
   <img src="../../../logo-ihi.png" class="img-fluid px-lg-2" alt="Logo IHI" style="width: 200px;"/>
 </div>
+
 ### Contact
 <p>Prof. Dr.Christoph Klein  <br />
 Dr.von Hauner Children’s Hospital Munich, Germany <br />
