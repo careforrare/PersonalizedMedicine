@@ -44,7 +44,8 @@ Further Information on Brokerage Platform:​  <br />
 ## Outcomes and Impacts
 ### Innovative ecosystem
 <img src="../../../innovation-ecosystem.png" class="img-fluid px-lg-2" alt="Innovation Ecosystem"/>
-Ensure evolution from pediatric immunological diseases to general adult care -paving the way to personalized medicine​
+
+<p>Ensure evolution from pediatric immunological diseases to general adult care -paving the way to personalized medicine​</p>
 
 - Access to precious **multi-omics data (of > 10.000 European patients)​**
 - **Technological Independence​**
