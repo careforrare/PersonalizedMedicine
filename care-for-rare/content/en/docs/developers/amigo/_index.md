@@ -41,8 +41,8 @@ Further Information on Brokerage Platform:​  <br />
 - **Early involvement and access** secures targeted project progress​
 - **New marketing strategies** will be established
 
-## Outcomes and Impacts
-### Innovative ecosystem
+### Outcomes and Impacts
+#### Innovative ecosystem
 <img src="../../../innovation-ecosystem.png" class="img-fluid px-lg-2" alt="Innovation Ecosystem"/>
 
 <p>Ensure evolution from pediatric immunological diseases to general adult care -paving the way to personalized medicine​</p>
@@ -51,6 +51,11 @@ Further Information on Brokerage Platform:​  <br />
 - **Technological Independence​**
 - Joint forces of **leading European Children’s Hospitals**
 
+**Innovative ecosystem** will empower **target identification and validation** via multi-omics analysis in immunological disorders.​
+
+**European Union’s health industry** will be strengthened to become competitive on a global level by collecting and using **European patient data**.​
+
+**Patients** will benefit by collaboration, gradual roll-out, and design of novel diagnostic methods and therapeutic strategies establishing personalized medicine.​
 
 ### Expertise and Resources
 We offer:​
