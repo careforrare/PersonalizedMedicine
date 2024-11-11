@@ -41,11 +41,13 @@ Further Information on Brokerage Platform:​  <br />
 - **Early involvement and access** secures targeted project progress​
 - **New marketing strategies** will be established
 
-### Outcomes and Impacts
+### Approach to solve the problem
 #### Innovative ecosystem
 <img src="../../../innovation-ecosystem.png" class="img-fluid px-lg-2" alt="Innovation Ecosystem"/>
 
 <p>Ensure evolution from pediatric immunological diseases to general adult care -paving the way to personalized medicine​</p>
+
+#### Outcomes and Impacts
 
 - Access to precious **multi-omics data (of > 10.000 European patients)​**
 - **Technological Independence​**
