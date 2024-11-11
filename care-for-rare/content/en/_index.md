@@ -191,6 +191,12 @@ class="img-fluid rounded" alt="Holding hands">
 </div>
 {{% /blocks/section %}}
 
+<style>
+  .accordion-header a {
+    display: none;
+  }
+</style>
+
 {{% blocks/section type="container" %}}
 <div class="container text-left">
   <h2>Frequently Asked Questions (FAQ)</h2>
@@ -287,7 +293,7 @@ class="img-fluid rounded" alt="Holding hands">
         data-bs-parent="#faqAccordion"
       >
         <div class="accordion-body">
-          Currently, we are aiming to build a consortium for <a href="./docs/developers/amigo" class="btn btn-light">IHI Call 9</a>​.
+          Currently, we are aiming to build a consortium for <a href="./docs/developers/amigo">IHI Call 9</a>​.
           For steeper progress we need: Experts in target-to-drug Development, Brilliant minds in Data-to-AI Development and Clinical Trial Support.​ Contact us if you want to get involved!​
         </div>
       </div>
@@ -295,4 +301,5 @@ class="img-fluid rounded" alt="Holding hands">
   </div>
 </div>
 {{% /blocks/section %}}
+
 
