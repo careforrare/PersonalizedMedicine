@@ -7,6 +7,26 @@ description: Advanced Medical Intelligence for Guiding Omics-based Medicine
 <div class="d-lg-flex gap-3">
 <div class="flex-lg-grow-1">
 
+<div class="d-flex align-items-center">
+  <h2 class="me-3">IHI Call 9</h2>
+  <img src="../../../logo-ihi.png" class="img-fluid px-lg-2" alt="Logo IHI" style="width: 200px;"/>
+</div>
+### Contact
+<p>Prof. Dr.Christoph Klein  <br />
+Dr.von Hauner Children’s Hospital Munich, Germany <br />
+christoph.klein@med.uni-muenchen.de</p>
+
+<p>Nicola Götzenberger  <br />
+Global Liaison Manager <br />
+Dr.von Hauner Children’s Hospital Munich, Germany <br />
+Nicola.Goetzenberger@med.uni-muenchen.de</p>
+
+<p>
+Further Information on Brokerage Platform:​  <br />
+<a href="https://ihicalldays2024.converve.io/index.php?page=cat_tech">AMIGO Proposal Link​</a> <br />
+<a href="https://ihicalldays2024.converve.io/index.php?page=meet_request_meetings&action=detail&params%5Bq%5D=Christoph+Klein&params%5Bshow%5D=pers&params%5Bevent_id%5D=1&params%5Bid%5D=408&params%5Bpers_id%5D=419">Christoph Klein Profile Link​</a>
+</p>
+
 ## Is your project suitable for IHI?
 ### Public Private Partnerships are essential: 
 
@@ -22,12 +42,13 @@ description: Advanced Medical Intelligence for Guiding Omics-based Medicine
 
 ## Outcomes and Impacts
 ### Innovative ecosystem
+<img src="../../../innovation-ecosystem.png" class="img-fluid px-lg-2" alt="Innovation Ecosystem"/>
+Ensure evolution from pediatric immunological diseases to general adult care -paving the way to personalized medicine​
+
 - Access to precious **multi-omics data (of > 10.000 European patients)​**
 - **Technological Independence​**
 - Joint forces of **leading European Children’s Hospitals**
 
-
-Ensure evolution from pediatric immunological diseases to general adult care -paving the way to personalized medicine​
 
 ### Expertise and Resources
 We offer:​
