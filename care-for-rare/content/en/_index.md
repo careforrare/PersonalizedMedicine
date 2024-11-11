@@ -3,6 +3,7 @@ title: Care for Rare
 ---
 
 {{% blocks/section type="container" %}}
+
 <div class="mb-4">
 <div class="d-inline-flex -bg-primary p-2 rounded">
 <h1 class="-text-white display-5 fw-bold m-0">AMIGO: We care for rare.</h1>
@@ -74,6 +75,7 @@ Helping our patients and their families is the heart of our initiative. That is 
 {{% /blocks/section %}}
 
 {{% blocks/section type="container" %}}
+
 <h2>Dr. von Hauner Children’s Hospital</h2>
 <div class="container text-left pt-3">
 <div class="row p-0">
@@ -96,15 +98,17 @@ Personalized, predictive and participatory precision medicine is the primary goa
 {{% /blocks/section %}}
 
 {{% blocks/section type="container" %}}
+
 <div class="pt-4">
 <h2>AMIGO</h2>
 <p class="fs-5"><strong>A</strong>dvanced <strong>M</strong>edical <strong>I</strong>ntelligence for <strong>G</strong>uiding <strong>O</strong>mics-based Medicine</p>
 
-Join us in integrating the potential of Artificial Intelligence into the healthcare sector. Project AMIGO is committed to applying federated machine learning and clinical knowledge graphs, so that children with rare diseases can receive a rapid diagnosis and targeted treatment. 
+Join us in integrating the potential of Artificial Intelligence into the healthcare sector. Project AMIGO is committed to applying federated machine learning and clinical knowledge graphs, so that children with rare diseases can receive a rapid diagnosis and targeted treatment.
 
-**Just because it is called *rare*, doesn’t mean it doesn’t affect us all.**
+**Just because it is called _rare_, doesn’t mean it doesn’t affect us all.**
 
 <a href="./docs/developers/amigo" class="btn btn-light">Join IHI <i class="fa-solid fa-arrow-right"></i></a>
+
 </div>
 
 <div class="container text-center">
@@ -152,6 +156,7 @@ Join us in integrating the potential of Artificial Intelligence into the healthc
 {{% /blocks/section %}}
 
 {{% blocks/section type="container" %}}
+
 <div class="container text-left">
 <div class="row p-0">
 <div class="col-md-8">
@@ -186,5 +191,108 @@ class="img-fluid rounded" alt="Holding hands">
 </div>
 {{% /blocks/section %}}
 
-
+{{% blocks/section type="container" %}}
+<div class="container text-left">
+  <h2>Frequently Asked Questions (FAQ)</h2>
+  <div class="accordion" id="faqAccordion">
+    <div class="accordion-item">
+      <h2 class="accordion-header" id="headingOne">
+        <button
+          class="accordion-button"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#collapseOne"
+          aria-expanded="true"
+          aria-controls="collapseOne"
+        >
+          What does AMIGO aim for? ​
+        </button>
+      </h2>
+      <div
+        id="collapseOne"
+        class="accordion-collapse collapse show"
+        aria-labelledby="headingOne"
+        data-bs-parent="#faqAccordion"
+      >
+        <div class="accordion-body">
+          AMIGO aims to ensure the evolution from paediatric immunological diseases to general adult care. And therefore, paving the way to personalized medicine.​
+        </div>
+      </div>
+    </div>
+    <div class="accordion-item">
+      <h2 class="accordion-header" id="headingTwo">
+        <button
+          class="accordion-button collapsed"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#collapseTwo"
+          aria-expanded="false"
+          aria-controls="collapseTwo"
+        >
+          What makes AMIGO unique?
+        </button>
+      </h2>
+      <div
+        id="collapseTwo"
+        class="accordion-collapse collapse"
+        aria-labelledby="headingTwo"
+        data-bs-parent="#faqAccordion"
+      >
+        <div class="accordion-body">
+          Project AMIGO is the first project, in which leading European Children’s Hospitals are joining forces to push progress further.​ So far, we can provide access to precious multi-omics data of >10.000 European patients. As we collect cross-sectional, and longitudinal data, this number is expected to grow fast.​ The data we gather never leaves the on-premise site. This is how we ensure that there is no violation of data protection.​ Technological Independence: It can work with any software that uses federated machine learning is not depending on the system of the clinic.​
+        </div>
+      </div>
+    </div>
+    <div class="accordion-item">
+      <h2 class="accordion-header" id="headingThree">
+        <button
+          class="accordion-button collapsed"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#collapseThree"
+          aria-expanded="false"
+          aria-controls="collapseThree"
+        >
+          What is the Outcome of AMIGO?
+        </button>
+      </h2>
+      <div
+        id="collapseThree"
+        class="accordion-collapse collapse"
+        aria-labelledby="headingThree"
+        data-bs-parent="#faqAccordion"
+      >
+        <div class="accordion-body">
+          An innovative, self-sustaining ecosystem will empower target identification and validation via multi-omics analysis in immunological disorders.​ European Union’s health industry will be strengthened to  become competitive on a global level by collecting and using European patient data.
+        </div>
+      </div>
+    </div>
+    <div class="accordion-item">
+      <h2 class="accordion-header" id="headingFour">
+        <button
+          class="accordion-button collapsed"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#collapseFour"
+          aria-expanded="false"
+          aria-controls="collapseFour"
+        >
+          What’s next?
+        </button>
+      </h2>
+      <div
+        id="collapseFour"
+        class="accordion-collapse collapse"
+        aria-labelledby="headingFour"
+        data-bs-parent="#faqAccordion"
+      >
+        <div class="accordion-body">
+          Currently, we are aiming to build a consortium for <a href="./docs/developers/amigo" class="btn btn-light">IHI Call 9</a>​.
+          For steeper progress we need: Experts in target-to-drug Development, Brilliant minds in Data-to-AI Development and Clinical Trial Support.​ Contact us if you want to get involved!​
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{{% /blocks/section %}}
 
