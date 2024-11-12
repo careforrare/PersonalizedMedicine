@@ -16,6 +16,8 @@ Welcome to Project “AMIGO: <strong>A</strong>dvanced <strong>M</strong>edical 
 <p>
 Come to our booth at IHI!
 </p>
+<a href="./docs/developers/amigo" class="btn btn-light">Join IHI <i class="fa-solid fa-arrow-right"></i></a>
+
 <p>
 Contact: Nicola.Goetzenberger@med.uni-muenchen.de
 </p>
@@ -70,123 +72,6 @@ Helping our patients and their families is the heart of our initiative. That is 
 <a href="./docs/families" class="btn btn-light">Read more</a>
 </div>
 </div>
-</div>
-</div>
-{{% /blocks/section %}}
-
-{{% blocks/section type="container" %}}
-
-<h2>Dr. von Hauner Children’s Hospital</h2>
-<div class="container text-left pt-3">
-<div class="row p-0">
-<div class="col-2">
-<img src="./logo-hauner-hospital-caption.png" class="img-fluid rounded" alt="Logo Dr. von Hauner Children’s Hospital">
-</div>
-<div class="col">
-
-Dr. von Hauner Children’s Hospital is the Pediatric Clinic of the University Hospital of the Ludwig Maximilian University of Munich. It is a reference center for many children with severe, chronic or complex diseases. In addition to inpatient and outpatient treatment, everyday life is characterized by science and research.
-
-Driven by the passion to improve clinical care for children with rare and common diseases, interdisciplinary research teams collaborate on a variety of themes centered on pediatric health issues. The focus is on studying biological factors governing child development as well as on designing innovative therapeutic strategies.
-
-At Dr. von Hauner, one follows the believe that children also have a right to participate in medical progress. Therefore, the clinic, its physicians and medical staff work closely together with the patients and their families. The aim is to understand the basics of diseases to derive new ways of diagnosis, treatment and prevention.
-
-Personalized, predictive and participatory precision medicine is the primary goal of the actions taken.
-
-</div>
-</div>
-</div>
-{{% /blocks/section %}}
-
-{{% blocks/section type="container" %}}
-
-<div class="pt-4">
-<h2>AMIGO</h2>
-<p class="fs-5"><strong>A</strong>dvanced <strong>M</strong>edical <strong>I</strong>ntelligence for <strong>G</strong>uiding <strong>O</strong>mics-based Medicine</p>
-
-Join us in integrating the potential of Artificial Intelligence into the healthcare sector. Project AMIGO is committed to applying federated machine learning and clinical knowledge graphs, so that children with rare diseases can receive a rapid diagnosis and targeted treatment.
-
-**Just because it is called _rare_, doesn’t mean it doesn’t affect us all.**
-
-<a href="./docs/developers/amigo" class="btn btn-light">Join IHI <i class="fa-solid fa-arrow-right"></i></a>
-
-</div>
-
-<div class="container text-center">
-<h3>Joint initiative of</h3>
-<div class="row gx-md-3 gx-lg-5 mt-5 align-items-center justify-content-evenly">
-<div class="col">
-<a href="https://www.care-for-rare.org/en/home/">
-<img src="./logo-careforrare.jpg" class="img-fluid px-lg-4" alt="Logo Care-for-Rare Foundation">
-</a>
-</div>
-<div class="col">
-<a href="https://www.lmu-klinikum.de/">
-<img src="./logo-lmu-klinikum.jpg" class="img-fluid px-lg-2" alt="Logo LMU Klinikum">
-</a>
-</div>
-<div class="col">
-<a href="https://www.lmu-klinikum.de/hauner/kinder-und-kinderpoliklinik">
-<img src="./logo-hauner-hospital.jpg" class="img-fluid px-lg-4" alt="Logo Dr. von Hauner Childern’s Hopsital">
-</a>
-</div>
-</div>
-<div class="row gx-md-3 gx-lg-5 mt-5 p-0 align-items-center justify-content-evenly">
-<div class="col">
-<a href="https://www.capgemini.com/de-de/">
-<img src="./logo-capgemini.svg" class="img-fluid" alt="Logo Capgemini">
-</a>
-</div>
-<div class="col">
-<a href="https://featurecloud.eu/">
-<img src="./logo-featurecloud.png" class="img-fluid" alt="Logo FeatureCloud">
-</a>
-</div>
-<div class="col">
-<a href="https://www.mi4people.org/">
-<img src="./logo-ml4people.png" class="img-fluid px-lg-5" alt="Logo Ml4people">
-</a>
-</div>
-<div class="col">
-<a href="https://neo4j.com/">
-<img src="./logo-neo4j.jpg" class="img-fluid px-lg-5" alt="Logo neo4j">
-</a>
-</div>
-</div>
-</div>
-{{% /blocks/section %}}
-
-{{% blocks/section type="container" %}}
-
-<div class="container text-left">
-<div class="row p-0">
-<div class="col-md-8">
-<h2>What is the&nbsp;<div class="d-inline-flex -bg-primary p-1 rounded">
-<h2 class="-text-white fw-bold m-0">Care for Rare</h2>
-</div>&nbsp;foundation?
-</h2>
-<p>
-The Care-for-Rare Foundation is helping children with rare diseases. Children with rare diseases are the
-orphans of medicine. They are overshadwed in many ways: Odysseys from doctor to doctor and frequent
-misdiagnoses define their lives. Many rare diseases are still incurable. Only through increased research
-efforts and international cooperation can this fate be changed. </p>
-<p>The Care-for-Rare Foundation helps across national borders to give children with rare diseases hope for a
-cure – regardless of their origin or financial means. It bases its commitment on the guiding principle
-of “recognize – understand – cure”.
-</p>
-<div>
-<h3>Actions taken:</h3>
-<ul class="list-group list-group-flush pb-3">
-<li class="list-group-item"><i class="fa-regular fa-circle-check pe-2" style="color: #00883A"></i>Promoting development of new therapies</li>
-<li class="list-group-item"><i class="fa-regular fa-circle-check pe-2"  style="color: #00883A"></i>Financing the further training of doctors and scientists</li>
-<li class="list-group-item"><i class="fa-regular fa-circle-check pe-2"  style="color: #00883A"></i>Raising awareness of rare diseases</li>
-<li class="list-group-item"><i class="fa-regular fa-circle-check pe-2"  style="color: #00883A"></i>Helps in individual cases through clinical treatment</li>
-</ul>
-<p>The starting point for these activities is the Care-for-Rare Center at the Dr. von Hauner Children's Hospital of the Ludwig Maximilian University in Munich.</p>
-</div>
-</div>
-<div class="col-md-4">
-<img src="https://images.unsplash.com/photo-1584515933487-779824d29309?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-class="img-fluid rounded" alt="Holding hands">
 </div>
 </div>
 {{% /blocks/section %}}
@@ -302,4 +187,117 @@ class="img-fluid rounded" alt="Holding hands">
 </div>
 {{% /blocks/section %}}
 
+{{% blocks/section type="container" %}}
 
+<h2>Dr. von Hauner Children’s Hospital</h2>
+<div class="container text-left pt-3">
+<div class="row p-0">
+<div class="col-2">
+<img src="./logo-hauner-hospital-caption.png" class="img-fluid rounded" alt="Logo Dr. von Hauner Children’s Hospital">
+</div>
+<div class="col">
+
+Dr. von Hauner Children’s Hospital is the Pediatric Clinic of the University Hospital of the Ludwig Maximilian University of Munich. It is a reference center for many children with severe, chronic or complex diseases. In addition to inpatient and outpatient treatment, everyday life is characterized by science and research.
+
+Driven by the passion to improve clinical care for children with rare and common diseases, interdisciplinary research teams collaborate on a variety of themes centered on pediatric health issues. The focus is on studying biological factors governing child development as well as on designing innovative therapeutic strategies.
+
+At Dr. von Hauner, one follows the believe that children also have a right to participate in medical progress. Therefore, the clinic, its physicians and medical staff work closely together with the patients and their families. The aim is to understand the basics of diseases to derive new ways of diagnosis, treatment and prevention.
+
+Personalized, predictive and participatory precision medicine is the primary goal of the actions taken.
+
+</div>
+</div>
+</div>
+{{% /blocks/section %}}
+
+{{% blocks/section type="container" %}}
+
+<div class="pt-4">
+<h2>AMIGO</h2>
+<p class="fs-5"><strong>A</strong>dvanced <strong>M</strong>edical <strong>I</strong>ntelligence for <strong>G</strong>uiding <strong>O</strong>mics-based Medicine</p>
+
+Join us in integrating the potential of Artificial Intelligence into the healthcare sector. Project AMIGO is committed to applying federated machine learning and clinical knowledge graphs, so that children with rare diseases can receive a rapid diagnosis and targeted treatment.
+
+**Just because it is called _rare_, doesn’t mean it doesn’t affect us all.**
+
+</div>
+
+<div class="container text-center">
+<h3>Joint initiative of</h3>
+<div class="row gx-md-3 gx-lg-5 mt-5 align-items-center justify-content-evenly">
+<div class="col">
+<a href="https://www.care-for-rare.org/en/home/">
+<img src="./logo-careforrare.jpg" class="img-fluid px-lg-4" alt="Logo Care-for-Rare Foundation">
+</a>
+</div>
+<div class="col">
+<a href="https://www.lmu-klinikum.de/">
+<img src="./logo-lmu-klinikum.jpg" class="img-fluid px-lg-2" alt="Logo LMU Klinikum">
+</a>
+</div>
+<div class="col">
+<a href="https://www.lmu-klinikum.de/hauner/kinder-und-kinderpoliklinik">
+<img src="./logo-hauner-hospital.jpg" class="img-fluid px-lg-4" alt="Logo Dr. von Hauner Childern’s Hopsital">
+</a>
+</div>
+</div>
+<div class="row gx-md-3 gx-lg-5 mt-5 p-0 align-items-center justify-content-evenly">
+<div class="col">
+<a href="https://www.capgemini.com/de-de/">
+<img src="./logo-capgemini.svg" class="img-fluid" alt="Logo Capgemini">
+</a>
+</div>
+<div class="col">
+<a href="https://featurecloud.eu/">
+<img src="./logo-featurecloud.png" class="img-fluid" alt="Logo FeatureCloud">
+</a>
+</div>
+<div class="col">
+<a href="https://www.mi4people.org/">
+<img src="./logo-ml4people.png" class="img-fluid px-lg-5" alt="Logo Ml4people">
+</a>
+</div>
+<div class="col">
+<a href="https://neo4j.com/">
+<img src="./logo-neo4j.jpg" class="img-fluid px-lg-5" alt="Logo neo4j">
+</a>
+</div>
+</div>
+</div>
+{{% /blocks/section %}}
+
+{{% blocks/section type="container" %}}
+
+<div class="container text-left">
+<div class="row p-0">
+<div class="col-md-8">
+<h2>What is the&nbsp;<div class="d-inline-flex -bg-primary p-1 rounded">
+<h2 class="-text-white fw-bold m-0">Care for Rare</h2>
+</div>&nbsp;foundation?
+</h2>
+<p>
+The Care-for-Rare Foundation is helping children with rare diseases. Children with rare diseases are the
+orphans of medicine. They are overshadwed in many ways: Odysseys from doctor to doctor and frequent
+misdiagnoses define their lives. Many rare diseases are still incurable. Only through increased research
+efforts and international cooperation can this fate be changed. </p>
+<p>The Care-for-Rare Foundation helps across national borders to give children with rare diseases hope for a
+cure – regardless of their origin or financial means. It bases its commitment on the guiding principle
+of “recognize – understand – cure”.
+</p>
+<div>
+<h3>Actions taken:</h3>
+<ul class="list-group list-group-flush pb-3">
+<li class="list-group-item"><i class="fa-regular fa-circle-check pe-2" style="color: #00883A"></i>Promoting development of new therapies</li>
+<li class="list-group-item"><i class="fa-regular fa-circle-check pe-2"  style="color: #00883A"></i>Financing the further training of doctors and scientists</li>
+<li class="list-group-item"><i class="fa-regular fa-circle-check pe-2"  style="color: #00883A"></i>Raising awareness of rare diseases</li>
+<li class="list-group-item"><i class="fa-regular fa-circle-check pe-2"  style="color: #00883A"></i>Helps in individual cases through clinical treatment</li>
+</ul>
+<p>The starting point for these activities is the Care-for-Rare Center at the Dr. von Hauner Children's Hospital of the Ludwig Maximilian University in Munich.</p>
+</div>
+</div>
+<div class="col-md-4">
+<img src="https://images.unsplash.com/photo-1584515933487-779824d29309?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+class="img-fluid rounded" alt="Holding hands">
+</div>
+</div>
+{{% /blocks/section %}}
