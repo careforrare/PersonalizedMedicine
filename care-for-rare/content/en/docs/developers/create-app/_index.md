@@ -20,8 +20,8 @@ weight: 4
 
 1. Prerequisites
     <ol type="a">
-    <li>Install FeatureCloud pip package: <code>pip install feacturecloud</code></li>
-    <li>Start Controller: <code>feacturecloud controller start</code></li>
+    <li>Install FeatureCloud pip package: <code>pip install featurecloud</code></li>
+    <li>Start Controller: <code>featurecloud controller start</code></li>
     </ol>
 2. Implement your application
     <ol type="a">
