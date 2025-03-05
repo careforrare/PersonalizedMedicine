@@ -13,9 +13,11 @@ title: Care for Rare
 <p class="lead">
 Welcome to Project “AMIGO: <strong>A</strong>dvanced <strong>M</strong>edical <strong>I</strong>ntelligence for <strong>G</strong>uiding <strong>O</strong>mics-based  Medicine”.
 </p>
-<p>
-Come to our booth at IHI!
-</p>
+
+<div class="banner">
+  <img src="./national-cancer-institute-JxoWb7wHqnA-unsplash.jpg" alt="Banner Image" class="img-fluid">
+</div>
+
 <a href="./docs/developers/amigo" class="btn btn-light">Join IHI <i class="fa-solid fa-arrow-right"></i></a>
 
 <p>
