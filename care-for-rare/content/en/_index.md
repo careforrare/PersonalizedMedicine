@@ -287,12 +287,12 @@ Join us in integrating the potential of Artificial Intelligence into the healthc
 <div class="row p-0">
 <div class="col-md-8">
 <h2>What is the&nbsp;<div class="d-inline-flex -bg-primary p-1 rounded">
-<h2 class="-text-white fw-bold m-0">Care for Rare</h2>
+<h2 class="-text-white fw-bold m-0">Care-for-Rare</h2>
 </div>&nbsp;foundation?
 </h2>
 <p>
 The Care-for-Rare Foundation is helping children with rare diseases. Children with rare diseases are the
-orphans of medicine. They are overshadwed in many ways: Odysseys from doctor to doctor and frequent
+orphans of medicine. They are overshadowed in many ways: Odysseys from doctor to doctor and frequent
 misdiagnoses define their lives. Many rare diseases are still incurable. Only through increased research
 efforts and international cooperation can this fate be changed. </p>
 <p>The Care-for-Rare Foundation helps across national borders to give children with rare diseases hope for a
