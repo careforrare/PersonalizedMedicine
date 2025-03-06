@@ -13,14 +13,30 @@ title: Care for Rare
 <p class="lead">
 Welcome to Project “AMIGO: <strong>A</strong>dvanced <strong>M</strong>edical <strong>I</strong>ntelligence for <strong>G</strong>uiding <strong>O</strong>mics-based  Medicine”.
 </p>
-<p>
-Come to our booth at IHI!
-</p>
-<a href="./docs/developers/amigo" class="btn btn-light">Join IHI <i class="fa-solid fa-arrow-right"></i></a>
 
-<p>
-Contact: Nicola.Goetzenberger@med.uni-muenchen.de
-</p>
+<div class="banner">
+  <img src="./national-cancer-institute-JxoWb7wHqnA-unsplash.jpg" alt="Banner Image" class="img-fluid">
+</div>
+
+<div class="col pt-3 pb-3">
+<a href="./docs/developers/amigo" class="btn btn-light">Join IHI <i class="fa-solid fa-arrow-right"></i></a>
+</div>
+
+  <div class="col pb-3">
+    <div class="card h-100">
+      <div class="card-body">
+        <div class="d-flex pb-2">
+          <div class="flex-grow-1">
+            <h3 class="card-title">Contact</h3>
+          </div>
+        </div>
+        <p class="card-text flex-grow-1">
+          Nicola.Goetzenberger@med.uni-muenchen.de.
+        </p>
+      </div>
+    </div>
+  </div>
+
 <p class="mb-4">
 Our project, launched and managed by Dr. von Hauner Children’s Hospital in Munich, Germany, aims to give hope to children with rare diseases, known as the orphans of medicine. By integrating Machine Learning (ML) and following a decentralized approach, it will be possible to analyze and link children’s clinical and genetic data with the highest level of data security. The knowledge gained will be used to train an AI and thus help doctors around the world to diagnose and treat patients in an individual and personalized way.
 </p>
@@ -65,7 +81,7 @@ We bring cutting-edge technology to clinics, enabling creation of collaborative 
 <div><i class="fa-regular fa-people-roof fa-2xl"></i></div>
 </div>
 <p class="card-text">
-Helping our patients and their families is the heart of our initiative. That is why our partners at Dr. von Hauner Children’s Hospital are working on SCIVIAS study and early diagnosis of rare diseases.
+Helping our patients and their families is at the heart of our initiative. That is why our partners at the Dr von Hauner Children's Hospital are working on the SCIVIAS study and early diagnosis of rare diseases.
 </p>
 </div>
 <div class="card-footer bg-white border-0 mb-2">
@@ -106,7 +122,7 @@ Helping our patients and their families is the heart of our initiative. That is 
         data-bs-parent="#faqAccordion"
       >
         <div class="accordion-body">
-          AMIGO aims to ensure the evolution from paediatric immunological diseases to general adult care. And therefore, paving the way to personalized medicine.​
+          AMIGO aims to support the increase and precision in diagnosing and treating every severe diseased child with the support of Machine Learning. On the long run, we want to ensure the evolution from pediatric rare diseases to general adult care. Therefore, paving the way to personalized medicine.​
         </div>
       </div>
     </div>
@@ -130,7 +146,7 @@ Helping our patients and their families is the heart of our initiative. That is 
         data-bs-parent="#faqAccordion"
       >
         <div class="accordion-body">
-          Project AMIGO is the first project, in which leading European Children’s Hospitals are joining forces to push progress further.​ So far, we can provide access to precious multi-omics data of >10.000 European patients. As we collect cross-sectional, and longitudinal data, this number is expected to grow fast.​ The data we gather never leaves the on-premise site. This is how we ensure that there is no violation of data protection.​ Technological Independence: It can work with any software that uses federated machine learning is not depending on the system of the clinic.​
+          … leading European Children’s Hospitals <a href="https://www.echohospitals.org/"> (Who we are | ECHO (echohospitals.org))</a>
         </div>
       </div>
     </div>
@@ -154,7 +170,7 @@ Helping our patients and their families is the heart of our initiative. That is 
         data-bs-parent="#faqAccordion"
       >
         <div class="accordion-body">
-          An innovative, self-sustaining ecosystem will empower target identification and validation via multi-omics analysis in immunological disorders.​ European Union’s health industry will be strengthened to  become competitive on a global level by collecting and using European patient data.
+          An innovative, self-sustaining ecosystem that includes all players in the healthcare system: clinics and their patients, the IT providers who support our decentralized approach, companies who can develop diagnostic tools and treatment approaches via federated learning, as well as pharmaceuticals and health insurance companies. European Union’s health industry will be strengthened to become competitive on a global level by collecting and using European patient data.
         </div>
       </div>
     </div>
@@ -178,8 +194,7 @@ Helping our patients and their families is the heart of our initiative. That is 
         data-bs-parent="#faqAccordion"
       >
         <div class="accordion-body">
-          Currently, we are aiming to build a consortium for <a href="./docs/developers/amigo">IHI Call 9</a>​.
-          For steeper progress we need: Experts in target-to-drug Development, Brilliant minds in Data-to-AI Development and Clinical Trial Support.​ Contact us if you want to get involved!​
+          Currently we are aiming to build a consortium for IHI Call 9. For steeper progress we need: Experts in target-to-drug development, brilliant minds in Data-to-AI Development and Clinical Trial Support. We are also specifically looking for pharmaceutical companies that will develop a use case with us.
         </div>
       </div>
     </div>
@@ -272,12 +287,12 @@ Join us in integrating the potential of Artificial Intelligence into the healthc
 <div class="row p-0">
 <div class="col-md-8">
 <h2>What is the&nbsp;<div class="d-inline-flex -bg-primary p-1 rounded">
-<h2 class="-text-white fw-bold m-0">Care for Rare</h2>
+<h2 class="-text-white fw-bold m-0">Care-for-Rare</h2>
 </div>&nbsp;foundation?
 </h2>
 <p>
 The Care-for-Rare Foundation is helping children with rare diseases. Children with rare diseases are the
-orphans of medicine. They are overshadwed in many ways: Odysseys from doctor to doctor and frequent
+orphans of medicine. They are overshadowed in many ways: Odysseys from doctor to doctor and frequent
 misdiagnoses define their lives. Many rare diseases are still incurable. Only through increased research
 efforts and international cooperation can this fate be changed. </p>
 <p>The Care-for-Rare Foundation helps across national borders to give children with rare diseases hope for a
