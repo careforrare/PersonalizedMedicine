@@ -18,6 +18,20 @@ Welcome to Project “AMIGO: <strong>A</strong>dvanced <strong>M</strong>edical 
   <img src="./national-cancer-institute-JxoWb7wHqnA-unsplash.jpg" alt="Banner Image" class="img-fluid">
 </div>
 
+<style>
+  .banner {
+    width: 100%; /* Adjust the width of the banner */
+    height: 425px; /* Adjust the height of the banner */
+    overflow: hidden; /* Hide any overflow */
+  }
+
+  .banner img {
+    width: 100%; /* Make the image take the full width of the banner */
+    height: auto; /* Maintain the aspect ratio */
+    object-fit: cover; /* Ensure the image covers the banner area */
+  }
+</style>
+
 <div class="col pt-3 pb-3">
 <a href="./docs/developers/amigo" class="btn btn-light">Join IHI <i class="fa-solid fa-arrow-right"></i></a>
 </div>
