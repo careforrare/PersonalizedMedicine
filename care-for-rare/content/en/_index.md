@@ -36,20 +36,25 @@ Welcome to Project “AMIGO: <strong>A</strong>dvanced <strong>M</strong>edical 
 <a href="./docs/developers/amigo" class="btn btn-light">Join IHI <i class="fa-solid fa-arrow-right"></i></a>
 </div>
 
-  <div class="col pb-3">
-    <div class="card h-100">
-      <div class="card-body">
-        <div class="d-flex pb-2">
-          <div class="flex-grow-1">
-            <h3 class="card-title">Contact</h3>
+<div class="row row-cols-1 row-cols-md-3 g-4 p-0">
+  <div class="col">
+    <div class="col pb-3 custom-card-width">
+      <div class="card h-100">
+        <div class="card-body">
+          <div class="d-flex pb-2">
+            <div class="flex-grow-1">
+              <h3 class="card-title">Contact</h3>
+            </div>
+            <div><i class="fa-regular fa-envelope fa-2xl"></i></div>
           </div>
+          <p class="card-text flex-grow-1">
+            Nicola.Goetzenberger@med.uni-muenchen.de.
+          </p>
         </div>
-        <p class="card-text flex-grow-1">
-          Nicola.Goetzenberger@med.uni-muenchen.de.
-        </p>
       </div>
     </div>
   </div>
+</div>
 
 <p class="mb-4">
 Our project, launched and managed by Dr. von Hauner Children’s Hospital in Munich, Germany, aims to give hope to children with rare diseases, known as the orphans of medicine. By integrating Machine Learning (ML) and following a decentralized approach, it will be possible to analyze and link children’s clinical and genetic data with the highest level of data security. The knowledge gained will be used to train an AI and thus help doctors around the world to diagnose and treat patients in an individual and personalized way.
