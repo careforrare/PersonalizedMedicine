@@ -7,7 +7,7 @@ import warnings
 warnings.filterwarnings("ignore", category=FutureWarning)
 
 def detect_delimiter(filename):
-    """ Versucht, den Delimiter einer Datei zu erkennen, indem die erste Zeile gelesen wird. """
+    """ Get file delimiter based on first line. """
     with open(filename, 'r') as file:
         first_line = file.readline()
     if ';' in first_line:
@@ -16,7 +16,7 @@ def detect_delimiter(filename):
         return ','
 
 def read_and_prepare_data(filepath):
-    """Liest die CSV-Datei ein, benennt die Spalten um und bereitet die Daten vor."""
+    """ ead csv file, renames columns and prepares data. """
     try:
         delimiter = detect_delimiter(filepath)
         data = pd.read_csv(filepath, delimiter=delimiter)
@@ -26,11 +26,11 @@ def read_and_prepare_data(filepath):
         data.dropna(subset=['subject_id'], inplace=True)
         return data
     except Exception as e:
-        print(f"Fehler beim Lesen der Datei {filepath}: {e}")
+        print(f"Error while reading file {filepath}: {e}")
         return None
 
 def calculate_metrics(groundtruth_path, student_results_path):
-    """Berechnet Metriken basierend auf den Eingabedaten."""
+    """ Calulates Metrics based on input. """
     groundtruth = read_and_prepare_data(groundtruth_path)
     student_results = read_and_prepare_data(student_results_path)
 
@@ -40,7 +40,7 @@ def calculate_metrics(groundtruth_path, student_results_path):
     merged_data = pd.merge(groundtruth, student_results, on='subject_id', how='left', suffixes=('_gt', '_sr'))
     merged_data = merged_data.dropna()
     if merged_data.empty:
-        print("Keine übereinstimmenden IDs zwischen den Dateien gefunden.")
+        print("No matching IDs between files")
         return
     print(merged_data)
     f1 = f1_score(merged_data['disease_gt'], merged_data['disease_sr'], average='macro')
@@ -51,7 +51,7 @@ def calculate_metrics(groundtruth_path, student_results_path):
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
-        print("Benutzung: python script.py groundtruth.csv student_results.csv")
+        print("Usage: python script.py groundtruth.csv student_results.csv")
     else:
         groundtruth_path = sys.argv[1]
         student_results_path = sys.argv[2]
