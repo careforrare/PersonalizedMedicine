@@ -38,7 +38,8 @@ docker logs <containerID>
 # Push the new image to the registry
 make push
 
-Alternatively you are free to utilize the full functionalities of the feature-cloud api and Testbed
+```
+Alternatively, you are free to utilize the full functionalities of the feature-cloud api and Testbed
 https://featurecloud.ai/developers
 
-```
+To get access to the synthetic data graph, please contact: ml-KINDFOR-Bio-IT@med.uni-muenchen.de 
